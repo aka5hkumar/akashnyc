@@ -15,22 +15,25 @@ body {
   text-align: center;
   opacity: 1;
 }
-#content{
+
+#content {
   padding-bottom: 20px;
 }
+
 #about {
-  background-color: rgba(120,120,120,0.5);
+  background-color: rgba(120, 120, 120, 0.5);
   border-radius: 25px;
   padding: 25px;
   border-spacing: 10px;
   margin-bottom: 25%;
 }
-#types{
+
+#types {
   border-radius: 25px;
   height: 10%;
 }
 
-#hardware, #software, #design{
+#hardware, #software, #design {
   text-align: center;
   padding: 25px;
   border-spacing: 25px;
@@ -38,16 +41,26 @@ body {
   color: black;
   font-weight: bolder;
   margin-bottom: 10px;
+  transition: all ease 1.8s;
 }
-#hardware{
+
+#hardware:hover, #software:hover, #design:hover {
+  box-shadow: inset 500px 0 0 0 #e0e0e0;
+  color: #000;
+}
+
+#hardware {
   background-color: cyan;
 }
-#software{
+
+#software {
   background-color: magenta;
 }
-#design{
+
+#design {
   background-color: yellow;
 }
+
 #footer {
   text-align: center;
   background-color: #FFD100;
@@ -57,15 +70,19 @@ body {
   border-radius: 5px;
   margin-top: 10px;
 }
-.btn{
-    margin: 10px;
-    background-color: black;
-    padding: 15px;
-    font-weight: bold;
-    font-size: 20;
-    color: white;
-    border-radius: 10px;
+
+.btn {
+  margin: 10px;
+  background-color: black;
+  padding: 15px;
+  font-weight: bold;
+  font-size: 20;
+  color: white;
+  border-radius: 10px;
+  transition: all ease 0.8s;
 }
-.btn:hover::after {
-  width: 10%;
+
+.btn:hover {
+  box-shadow: inset 200px 0 0 0 #e0e0e0;
+  color: #000;
 }
