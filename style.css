@@ -1,93 +1,118 @@
-  body {
-    background-color: black;
-    text-align: center;
-    color: white;
-    font-family: 'Raleway', sans-serif;
-  }
-  /*#main {
+body {
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+}
+
+
+/*#main {
     padding-top: 5%;
     border-radius: 25px;
     border-spacing: 10%;
     height: 50%;
   }*/
-p{
-  font-size: 2vw;
+
+@media screen and (orientation: landscape) {
+  p {
+    font-size: 2vw;
+  }
 }
-footer{
+
+@media screen and (orientation: portrait) {
+  p {
+    font-size: 4vw;
+  }
+}
+
+@media screen and (orientation: landscape) {
+  h1 {
+    font-size: 3vw;
+  }
+}
+
+@media screen and (orientation: portrait) {
+  h1 {
+    font-size: 4vw;
+  }
+}
+footer {
   color: black;
+  text-align: center;
 }
-  #element {
-    background-color:	#202020;
-    width: 100%;
-    height: 95%;
-    display: block;
-    overflow: hidden;
-    transform: translate3d(0, 0, 0);
-    text-align: center;
-    opacity: 1;
-    border-radius: 10px;
-    margin-bottom: 15px;
-  }
 
-  #hardware, #software, #design {
-    text-align: center;
-    padding: 15%;
-    border-spacing: 25px;
-    margin-bottom: 10px;
-    border-radius: 10px;
-    color: black;
-    font-weight: bolder;
-    transition: all ease 1.8s;
-  }
+#element {
+  background-color: #202020;
+  width: 100%;
+  height: 95%;
+  display: block;
+  overflow: hidden;
+  transform: translate3d(0, 0, 0);
+  text-align: center;
+  opacity: 1;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
 
-  #hardware:hover, #software:hover, #design:hover {
-    box-shadow: inset 500px 0 0 0 #e0e0e0;
-    color: #000;
-  }
+#hardware, #software, #design {
+  text-align: center;
+  padding: 15%;
+  border-spacing: 25px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  color: black;
+  font-weight: bolder;
+  transition: all ease 1.8s;
+}
 
-  #about {
-    padding-top: 25px;
-    margin-bottom: 1%;
-    border-radius: 10px;
-    background-color: rgba(120, 120, 120, 0.5);
-    transition: all ease 1.8s;
-  }
+#hardware:hover, #software:hover, #design:hover {
+  box-shadow: inset 500px 0 0 0 #e0e0e0;
+  color: #000;
+}
 
-  #hardware {
-    background-color: cyan;
-  }
+#about {
+  padding-top: 25px;
+  margin-bottom: 1%;
+  border-radius: 10px;
+  background-color: rgba(120, 120, 120, 0.5);
+  transition: all ease 1.8s;
+}
 
-  #software {
-    background-color: magenta;
-  }
+#hardware {
+  background-color: cyan;
+}
 
-  #design {
-    background-color: yellow;
-  }
+#software {
+  background-color: magenta;
+}
 
-  #footer {
-    text-align: center;
-    background-color: #FF9119;
-    padding: 10px;
-    font-weight: bold;
-    font-size: 10%;
-    border-radius: 5px;
-  }
+#design {
+  background-color: yellow;
+}
 
-  .btn {
-    margin: 10px;
-    background-color: black;
-    padding: 15px;
-    font-weight: bold;
-    font-size: 20;
-    color: white;
-    border-radius: 10px;
-    transition: all ease 0.8s;
-    border: 25px;
-    border-color: rgba(120, 120, 120, 0.5);
-  }
+#footer {
+  text-align: center;
+  background-color: #FFBF00;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 10%;
+  border-radius: 5px;
+}
 
-  .btn:hover {
-    box-shadow: inset 200px 0 0 0 #e0e0e0;
-    color: #000;
-  }
+.btn {
+  margin: 10px;
+  background-color: black;
+  padding: 15px;
+  font-weight: bold;
+  font-size: 20;
+  color: white;
+  border-radius: 10px;
+  transition: all ease 0.8s;
+  border: 25px;
+  border-color: rgba(120, 120, 120, 0.5);
+}
+
+.btn:hover {
+  box-shadow: inset 200px 0 0 0 #e0e0e0;
+  color: #000;
+}
