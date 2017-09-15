@@ -28,32 +28,86 @@
     <div id="main" <div class="row">
       <div id="about" class="col-md-5 col-sm-12">
         <h1>about</h1>
+        <h3> ___ </h3 >
+        <p class="align-middle">Not quite an engineer, not quite a designer, not quite a scientist.
+          I work on what I find interesting and I have developed a diverse skillset in the process.
+          As long as it is digital ones and zeros I know how to interface with it.
+           I know how to make it better. I build the precipitation from the cloud,
+           or basically anything that needs the internet to come alive.</p>
       </div>
       <div class="col-md-1 col-sm-12"></div>
-      <div id="types" class="col-md-5 col-sm-12">
-        <div id="hardware" class="row">
+      <div id="types" class="col-md-6 col-sm-12">
+        <div id="hardware" class="row" data-toggle="modal" data-target="#HardwareDetail">
           <h1>hardware</h1>
         </div>
-        <div id="software" class="row">
+        <div id="software" class="row" data-toggle="modal" data-target="#SoftwareDetail">
           <h1>software</h1>
         </div>
-        <div id="design" class="row">
+        <div id="design" class="row" data-toggle="modal" data-target="#DesignDetail">
           <h1>design</h1>
         </div>
       </div>
     </div>
   </div>
   </div>
-  <div id="footer" class="row">
-    <div class="col-12">
-      <a class="btn" href="http://akash.nyc/Resume.pdf">Github</a>
-      <a class="btn" href="http://akash.nyc/Resume.pdf">Contact</a>
-      <a class="btn" href="http://akash.nyc/Resume.pdf" download>Resume</a>
-      <a class="btn" href="http://akash.nyc/Resume.pdf">Linkedin</a>
-    </div>
+  <div id="footer" class="col">
+    <a class="btn" href="https://github.com/aka5hkumar">Github</a>
+    <a class="btn" href="mailto:me@akash.nyc">Contact</a>
+    <a class="btn" href="http://akash.nyc/Resume.pdf" download>Resume</a>
+    <a class="btn" href="https://www.linkedin.com/in/akashnyc/">Linkedin</a>
   </div>
 
-
+  <!-- Hardware Modal -->
+<div class="modal fade" id="HardwareDetail" tabindex="-1" role="dialog" aria-labelledby="hardware" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="hardwareTitle">Modal title</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        ...
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Software Modal -->
+<div class="modal fade" id="SoftwareDetail" tabindex="-1" role="dialog" aria-labelledby="hardware" aria-hidden="true">
+<div class="modal-dialog" role="document">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h5 class="modal-title" id="softwareTitle">Modal title</h5>
+      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div class="modal-body">
+      ...
+    </div>
+    <div class="modal-footer">
+      <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+    </div>
+  </div>
+</div>
+</div>
+<!-- Design Modal -->
+<div class="modal fade" id="DesignDetail" tabindex="-1" role="dialog" aria-labelledby="hardware" aria-hidden="true">
+<div class="modal-dialog" role="document">
+  <div class="modal-content">
+    <div class="modal-body">
+      <p>Design</p>
+    </div>
+    <div class="modal-footer">
+      <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+    </div>
+  </div>
+</div>
+</div>
 </body>
 
 </html>

@@ -1,3 +1,4 @@
+AOS.init();
 bodymovin.loadAnimation({
   container: element, // the dom element that will contain the animation
   renderer: 'svg',
@@ -7,5 +8,5 @@ bodymovin.loadAnimation({
 });
 
 $("#element").click(function() {
-    window.location = "http://akash.nyc/Resume.pdf";
+  window.location = "http://akash.nyc/Resume.pdf";
 });
