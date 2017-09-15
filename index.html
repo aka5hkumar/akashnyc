@@ -1,6 +1,18 @@
 <html>
 
 <head>
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-36912072-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments)
+    };
+    gtag('js', new Date());
+
+    gtag('config', 'UA-36912072-2');
+  </script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
   <link href="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
@@ -57,6 +69,8 @@
     <a class="btn" href="https://www.linkedin.com/in/akashnyc/">Linkedin</a>
   </div>
 
+</body>
+<footer>
   <!-- Hardware Modal -->
 <div class="modal fade" id="HardwareDetail" tabindex="-1" role="dialog" aria-labelledby="hardware" aria-hidden="true">
   <div class="modal-dialog" role="document">
@@ -76,38 +90,43 @@
     </div>
   </div>
 </div>
-<!-- Software Modal -->
-<div class="modal fade" id="SoftwareDetail" tabindex="-1" role="dialog" aria-labelledby="hardware" aria-hidden="true">
-<div class="modal-dialog" role="document">
-  <div class="modal-content">
-    <div class="modal-header">
-      <h5 class="modal-title" id="softwareTitle">Modal title</h5>
-      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-        <span aria-hidden="true">&times;</span>
-      </button>
-    </div>
-    <div class="modal-body">
-      ...
-    </div>
-    <div class="modal-footer">
-      <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+  <!-- Software Modal -->
+  <div class="modal fade" id="SoftwareDetail" tabindex="-1" role="dialog" aria-labelledby="hardware" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="softwareTitle">Modal title</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        ...
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div>
     </div>
   </div>
-</div>
-</div>
-<!-- Design Modal -->
+  </div>
+  <!-- Design Modal -->
 <div class="modal fade" id="DesignDetail" tabindex="-1" role="dialog" aria-labelledby="hardware" aria-hidden="true">
-<div class="modal-dialog" role="document">
-  <div class="modal-content">
-    <div class="modal-body">
-      <p>Design</p>
-    </div>
-    <div class="modal-footer">
-      <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="designTitle">Modal title</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <h1> I'm working on it</h1>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div>
     </div>
   </div>
 </div>
-</div>
-</body>
-
+  </footer>
 </html>
