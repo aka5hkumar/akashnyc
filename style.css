@@ -1,0 +1,70 @@
+body {
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+}
+
+#element {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  display: block;
+  overflow: hidden;
+  transform: translate3d(0, 0, 0);
+  text-align: center;
+  opacity: 1;
+}
+#content{
+  padding-bottom: 20px;
+}
+#about {
+  background-color: rgba(120,120,120,0.5);
+  border-radius: 25px;
+  padding: 25px;
+  border-spacing: 10px;
+  margin-bottom: 25%;
+}
+#types{
+  border-radius: 25px;
+  height: 10%;
+}
+
+#hardware, #software, #design{
+  text-align: center;
+  padding: 25px;
+  border-spacing: 25px;
+  border-radius: 10px;
+  color: black;
+  font-weight: bolder;
+  margin-bottom: 10px;
+}
+#hardware{
+  background-color: cyan;
+}
+#software{
+  background-color: magenta;
+}
+#design{
+  background-color: yellow;
+}
+#footer {
+  text-align: center;
+  background-color: #FFD100;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 10%;
+  border-radius: 5px;
+}
+.btn{
+    margin: 10px;
+    background-color: black;
+    padding: 15px;
+    font-weight: bold;
+    font-size: 20;
+    color: white;
+    border-radius: 10px;
+}
+.btn:hover::after {
+  width: 10%;
+}
