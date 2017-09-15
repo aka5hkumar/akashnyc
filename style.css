@@ -21,21 +21,17 @@ body {
 }
 
 #about {
+  padding-top: 5%;
   background-color: rgba(120, 120, 120, 0.5);
   border-radius: 25px;
-  padding: 25px;
-  border-spacing: 10px;
-  margin-bottom: 25%;
+  border-spacing: 10%;
+  height: 66%;
 }
 
-#types {
-  border-radius: 25px;
-  height: 10%;
-}
 
 #hardware, #software, #design {
   text-align: center;
-  padding: 25px;
+  padding: 15%;
   border-spacing: 25px;
   border-radius: 10px;
   color: black;
@@ -68,7 +64,7 @@ body {
   font-weight: bold;
   font-size: 10%;
   border-radius: 5px;
-  margin-top: 10px;
+  margin-top: 15%;
 }
 
 .btn {
