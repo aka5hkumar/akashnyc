@@ -16,14 +16,14 @@ body {
 @media screen and (orientation: landscape) {
   p {
     font-size: .2vmin;
-    font-size: 2vmax;
+    font-size: 1.5vmax;
   }
 }
 
 @media screen and (orientation: portrait) {
   p {
     font-size: .2vmin;
-    font-size: 2vmax;
+    font-size: 1.5vmax;
   }
 }
 
