@@ -15,13 +15,15 @@ body {
 
 @media screen and (orientation: landscape) {
   p {
-    font-size: 2vw;
+    font-size: 1.5vmin;
+    font-size: 2vmax;
   }
 }
 
 @media screen and (orientation: portrait) {
   p {
-    font-size: 4vw;
+    font-size: 2vmin;
+    font-size: 2.5vmax;
   }
 }
 
@@ -37,9 +39,24 @@ body {
   }
 }
 
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
 footer {
   color: black;
   text-align: center;
+}
+
+#inlinecontact {
+  display: inline;
+  color: white;
 }
 
 #element {
@@ -53,6 +70,7 @@ footer {
   opacity: 1;
   border-radius: 10px;
   margin-bottom: 15px;
+  cursor: pointer;
 }
 
 #hardware, #software, #design {
@@ -64,6 +82,7 @@ footer {
   color: black;
   font-weight: bolder;
   transition: all ease 1.8s;
+  cursor: pointer;
 }
 
 #hardware:hover, #software:hover, #design:hover {
@@ -93,20 +112,23 @@ footer {
 }
 
 #footer {
-  text-align: center;
+
   background-color: #FFBF00;
   padding: 10px;
   font-weight: bold;
-  font-size: 10%;
+  font-size: 2vw;
   border-radius: 5px;
 }
 
 .btn {
+  text-align: center;
   margin: 10px;
   background-color: black;
-  padding: 15px;
+  padding-top: 1.75vh;
+  padding-bottom: 1.75vh;
   font-weight: bold;
-  font-size: 20;
+  font-size: 1vmin;
+  font-size: 1.5vmax;
   color: white;
   border-radius: 10px;
   transition: all ease 0.8s;
