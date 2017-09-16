@@ -1,7 +1,7 @@
 bodymovin.loadAnimation({
   container: element, // the dom element that will contain the animation
   renderer: 'svg',
-  loop: true,
+  loop: 2,
   autoplay: true,
   path: "logo.json", // the path to the animation json
 });
