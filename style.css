@@ -178,15 +178,12 @@ footer {
 
 .media {
   display: flex;
-  max-width: 1000px;
+  max-width: 500px;
   width: 100%;
   &__video {
-    position: center;
-
-    height: 0;
-    width: 100%;
+    position: relative;
+    width: 50%;
     overflow: hidden;
-    background: gray;
     iframe, object, embed {
       position: absolute;
       top: 0;
