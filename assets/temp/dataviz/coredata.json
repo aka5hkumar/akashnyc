@@ -6,7 +6,7 @@
    "Longitude": -73.937819,
    "Number of Records": 1,
    "E Sense Atte": 47,
-   "E Sense Medi": 1
+   "medi": 1
  },
  {
    "Fid": 65874,
@@ -15,7 +15,7 @@
    "Longitude": -73.967932,
    "Number of Records": 1,
    "E Sense Atte": 94,
-   "E Sense Medi": 1
+   "medi": 1
  },
  {
    "Fid": 4588,
@@ -24,7 +24,7 @@
    "Longitude": -74.002489,
    "Number of Records": 1,
    "E Sense Atte": 23,
-   "E Sense Medi": 4
+   "medi": 4
  },
  {
    "Fid": 21356,
@@ -33,7 +33,7 @@
    "Longitude": -73.949253,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 4
+   "medi": 4
  },
  {
    "Fid": 42949,
@@ -42,7 +42,7 @@
    "Longitude": -73.988224,
    "Number of Records": 1,
    "E Sense Atte": 81,
-   "E Sense Medi": 4
+   "medi": 4
  },
  {
    "Fid": 10736,
@@ -51,7 +51,7 @@
    "Longitude": -73.988419,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 8
+   "medi": 8
  },
  {
    "Fid": 39778,
@@ -60,7 +60,7 @@
    "Longitude": -73.977233,
    "Number of Records": 1,
    "E Sense Atte": 47,
-   "E Sense Medi": 10
+   "medi": 10
  },
  {
    "Fid": 8237,
@@ -69,7 +69,7 @@
    "Longitude": -73.984728,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 10
+   "medi": 10
  },
  {
    "Fid": 81335,
@@ -78,7 +78,7 @@
    "Longitude": -73.995603,
    "Number of Records": 1,
    "E Sense Atte": 91,
-   "E Sense Medi": 10
+   "medi": 10
  },
  {
    "Fid": 17298,
@@ -87,7 +87,7 @@
    "Longitude": -73.914237,
    "Number of Records": 1,
    "E Sense Atte": 17,
-   "E Sense Medi": 11
+   "medi": 11
  },
  {
    "Fid": 65873,
@@ -96,7 +96,7 @@
    "Longitude": -73.967903,
    "Number of Records": 1,
    "E Sense Atte": 91,
-   "E Sense Medi": 11
+   "medi": 11
  },
  {
    "Fid": 71613,
@@ -105,7 +105,7 @@
    "Longitude": -73.989982,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 11
+   "medi": 11
  },
  {
    "Fid": 31999,
@@ -114,7 +114,7 @@
    "Longitude": -73.990634,
    "Number of Records": 1,
    "E Sense Atte": 47,
-   "E Sense Medi": 13
+   "medi": 13
  },
  {
    "Fid": 71257,
@@ -123,7 +123,7 @@
    "Longitude": -74.005382,
    "Number of Records": 1,
    "E Sense Atte": 1,
-   "E Sense Medi": 16
+   "medi": 16
  },
  {
    "Fid": 3417,
@@ -132,7 +132,7 @@
    "Longitude": -74.007376,
    "Number of Records": 1,
    "E Sense Atte": 27,
-   "E Sense Medi": 16
+   "medi": 16
  },
  {
    "Fid": 59494,
@@ -141,7 +141,7 @@
    "Longitude": -73.952123,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 16
+   "medi": 16
  },
  {
    "Fid": 81403,
@@ -150,7 +150,7 @@
    "Longitude": -73.999087,
    "Number of Records": 1,
    "E Sense Atte": 90,
-   "E Sense Medi": 16
+   "medi": 16
  },
  {
    "Fid": 81402,
@@ -159,7 +159,7 @@
    "Longitude": -73.999038,
    "Number of Records": 1,
    "E Sense Atte": 90,
-   "E Sense Medi": 16
+   "medi": 16
  },
  {
    "Fid": 7216,
@@ -168,7 +168,7 @@
    "Longitude": -73.999874,
    "Number of Records": 1,
    "E Sense Atte": 93,
-   "E Sense Medi": 16
+   "medi": 16
  },
  {
    "Fid": 87340,
@@ -177,7 +177,7 @@
    "Longitude": -73.999393,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 16
+   "medi": 16
  },
  {
    "Fid": 32732,
@@ -186,7 +186,7 @@
    "Longitude": -73.938847,
    "Number of Records": 1,
    "E Sense Atte": 24,
-   "E Sense Medi": 17
+   "medi": 17
  },
  {
    "Fid": 6672,
@@ -195,7 +195,7 @@
    "Longitude": -74.002908,
    "Number of Records": 1,
    "E Sense Atte": 47,
-   "E Sense Medi": 17
+   "medi": 17
  },
  {
    "Fid": 10505,
@@ -204,7 +204,7 @@
    "Longitude": -73.982756,
    "Number of Records": 1,
    "E Sense Atte": 51,
-   "E Sense Medi": 17
+   "medi": 17
  },
  {
    "Fid": 10512,
@@ -213,7 +213,7 @@
    "Longitude": -73.982633,
    "Number of Records": 1,
    "E Sense Atte": 51,
-   "E Sense Medi": 17
+   "medi": 17
  },
  {
    "Fid": 24289,
@@ -222,7 +222,7 @@
    "Longitude": -74.005049,
    "Number of Records": 1,
    "E Sense Atte": 83,
-   "E Sense Medi": 17
+   "medi": 17
  },
  {
    "Fid": 34864,
@@ -231,7 +231,7 @@
    "Longitude": -73.932392,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 20
+   "medi": 20
  },
  {
    "Fid": 58982,
@@ -240,7 +240,7 @@
    "Longitude": -73.943855,
    "Number of Records": 1,
    "E Sense Atte": 7,
-   "E Sense Medi": 21
+   "medi": 21
  },
  {
    "Fid": 36197,
@@ -249,7 +249,7 @@
    "Longitude": -73.929943,
    "Number of Records": 1,
    "E Sense Atte": 26,
-   "E Sense Medi": 21
+   "medi": 21
  },
  {
    "Fid": 65783,
@@ -258,7 +258,7 @@
    "Longitude": -73.966065,
    "Number of Records": 1,
    "E Sense Atte": 41,
-   "E Sense Medi": 21
+   "medi": 21
  },
  {
    "Fid": 79387,
@@ -267,7 +267,7 @@
    "Longitude": -73.986733,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 21
+   "medi": 21
  },
  {
    "Fid": 72586,
@@ -276,7 +276,7 @@
    "Longitude": -74.004206,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 21
+   "medi": 21
  },
  {
    "Fid": 520,
@@ -285,7 +285,7 @@
    "Longitude": -74.002935,
    "Number of Records": 1,
    "E Sense Atte": 78,
-   "E Sense Medi": 21
+   "medi": 21
  },
  {
    "Fid": 15816,
@@ -294,7 +294,7 @@
    "Longitude": -73.928743,
    "Number of Records": 1,
    "E Sense Atte": 88,
-   "E Sense Medi": 21
+   "medi": 21
  },
  {
    "Fid": 84277,
@@ -303,7 +303,7 @@
    "Longitude": -73.989918,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 21
+   "medi": 21
  },
  {
    "Fid": 72361,
@@ -312,7 +312,7 @@
    "Longitude": -73.999445,
    "Number of Records": 1,
    "E Sense Atte": 41,
-   "E Sense Medi": 23
+   "medi": 23
  },
  {
    "Fid": 43968,
@@ -321,7 +321,7 @@
    "Longitude": -73.972315,
    "Number of Records": 1,
    "E Sense Atte": 51,
-   "E Sense Medi": 23
+   "medi": 23
  },
  {
    "Fid": 7606,
@@ -330,7 +330,7 @@
    "Longitude": -73.995105,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 23
+   "medi": 23
  },
  {
    "Fid": 56137,
@@ -339,7 +339,7 @@
    "Longitude": -73.940383,
    "Number of Records": 1,
    "E Sense Atte": 93,
-   "E Sense Medi": 23
+   "medi": 23
  },
  {
    "Fid": 43693,
@@ -348,7 +348,7 @@
    "Longitude": -73.981532,
    "Number of Records": 1,
    "E Sense Atte": 94,
-   "E Sense Medi": 23
+   "medi": 23
  },
  {
    "Fid": 81684,
@@ -357,7 +357,7 @@
    "Longitude": -74.007108,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 23
+   "medi": 23
  },
  {
    "Fid": 42807,
@@ -366,7 +366,7 @@
    "Longitude": -73.989102,
    "Number of Records": 1,
    "E Sense Atte": 20,
-   "E Sense Medi": 24
+   "medi": 24
  },
  {
    "Fid": 3789,
@@ -375,7 +375,7 @@
    "Longitude": -73.998722,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 24
+   "medi": 24
  },
  {
    "Fid": 57505,
@@ -384,7 +384,7 @@
    "Longitude": -73.960146,
    "Number of Records": 1,
    "E Sense Atte": 37,
-   "E Sense Medi": 24
+   "medi": 24
  },
  {
    "Fid": 59199,
@@ -393,7 +393,7 @@
    "Longitude": -73.947944,
    "Number of Records": 1,
    "E Sense Atte": 37,
-   "E Sense Medi": 24
+   "medi": 24
  },
  {
    "Fid": 87854,
@@ -402,7 +402,7 @@
    "Longitude": -73.990837,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 24
+   "medi": 24
  },
  {
    "Fid": 84453,
@@ -411,7 +411,7 @@
    "Longitude": -73.989968,
    "Number of Records": 1,
    "E Sense Atte": 47,
-   "E Sense Medi": 24
+   "medi": 24
  },
  {
    "Fid": 4211,
@@ -420,7 +420,7 @@
    "Longitude": -73.98882,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 24
+   "medi": 24
  },
  {
    "Fid": 76798,
@@ -429,7 +429,7 @@
    "Longitude": -73.97708,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 24
+   "medi": 24
  },
  {
    "Fid": 6104,
@@ -438,7 +438,7 @@
    "Longitude": -74.002718,
    "Number of Records": 1,
    "E Sense Atte": 90,
-   "E Sense Medi": 24
+   "medi": 24
  },
  {
    "Fid": 39718,
@@ -447,7 +447,7 @@
    "Longitude": -73.972563,
    "Number of Records": 1,
    "E Sense Atte": 90,
-   "E Sense Medi": 24
+   "medi": 24
  },
  {
    "Fid": 8083,
@@ -456,7 +456,7 @@
    "Longitude": -73.983233,
    "Number of Records": 1,
    "E Sense Atte": 13,
-   "E Sense Medi": 26
+   "medi": 26
  },
  {
    "Fid": 71176,
@@ -465,7 +465,7 @@
    "Longitude": -74.006837,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 26
+   "medi": 26
  },
  {
    "Fid": 41173,
@@ -474,7 +474,7 @@
    "Longitude": -73.984278,
    "Number of Records": 1,
    "E Sense Atte": 90,
-   "E Sense Medi": 26
+   "medi": 26
  },
  {
    "Fid": 78304,
@@ -483,7 +483,7 @@
    "Longitude": -73.986651,
    "Number of Records": 1,
    "E Sense Atte": 91,
-   "E Sense Medi": 26
+   "medi": 26
  },
  {
    "Fid": 42357,
@@ -492,7 +492,7 @@
    "Longitude": -73.992775,
    "Number of Records": 1,
    "E Sense Atte": 1,
-   "E Sense Medi": 27
+   "medi": 27
  },
  {
    "Fid": 3914,
@@ -501,7 +501,7 @@
    "Longitude": -73.994257,
    "Number of Records": 1,
    "E Sense Atte": 24,
-   "E Sense Medi": 27
+   "medi": 27
  },
  {
    "Fid": 19869,
@@ -510,7 +510,7 @@
    "Longitude": -73.939095,
    "Number of Records": 1,
    "E Sense Atte": 29,
-   "E Sense Medi": 27
+   "medi": 27
  },
  {
    "Fid": 33842,
@@ -519,7 +519,7 @@
    "Longitude": -73.932437,
    "Number of Records": 1,
    "E Sense Atte": 37,
-   "E Sense Medi": 27
+   "medi": 27
  },
  {
    "Fid": 33323,
@@ -528,7 +528,7 @@
    "Longitude": -73.928244,
    "Number of Records": 1,
    "E Sense Atte": 41,
-   "E Sense Medi": 27
+   "medi": 27
  },
  {
    "Fid": 48162,
@@ -537,7 +537,7 @@
    "Longitude": -73.982807,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 27
+   "medi": 27
  },
  {
    "Fid": 65686,
@@ -546,7 +546,7 @@
    "Longitude": -73.964988,
    "Number of Records": 1,
    "E Sense Atte": 57,
-   "E Sense Medi": 27
+   "medi": 27
  },
  {
    "Fid": 22133,
@@ -555,7 +555,7 @@
    "Longitude": -73.936824,
    "Number of Records": 1,
    "E Sense Atte": 57,
-   "E Sense Medi": 27
+   "medi": 27
  },
  {
    "Fid": 57523,
@@ -564,7 +564,7 @@
    "Longitude": -73.959875,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 27
+   "medi": 27
  },
  {
    "Fid": 30838,
@@ -573,7 +573,7 @@
    "Longitude": -74.001926,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 27
+   "medi": 27
  },
  {
    "Fid": 38427,
@@ -582,7 +582,7 @@
    "Longitude": -73.948808,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 27
+   "medi": 27
  },
  {
    "Fid": 23517,
@@ -591,7 +591,7 @@
    "Longitude": -73.981278,
    "Number of Records": 1,
    "E Sense Atte": 91,
-   "E Sense Medi": 27
+   "medi": 27
  },
  {
    "Fid": 87456,
@@ -600,7 +600,7 @@
    "Longitude": -73.998137,
    "Number of Records": 1,
    "E Sense Atte": 93,
-   "E Sense Medi": 27
+   "medi": 27
  },
  {
    "Fid": 66658,
@@ -609,7 +609,7 @@
    "Longitude": -73.995625,
    "Number of Records": 1,
    "E Sense Atte": 94,
-   "E Sense Medi": 27
+   "medi": 27
  },
  {
    "Fid": 66641,
@@ -618,7 +618,7 @@
    "Longitude": -73.995412,
    "Number of Records": 1,
    "E Sense Atte": 94,
-   "E Sense Medi": 27
+   "medi": 27
  },
  {
    "Fid": 66637,
@@ -627,7 +627,7 @@
    "Longitude": -73.995143,
    "Number of Records": 1,
    "E Sense Atte": 94,
-   "E Sense Medi": 27
+   "medi": 27
  },
  {
    "Fid": 66634,
@@ -636,7 +636,7 @@
    "Longitude": -73.995044,
    "Number of Records": 1,
    "E Sense Atte": 94,
-   "E Sense Medi": 27
+   "medi": 27
  },
  {
    "Fid": 8555,
@@ -645,7 +645,7 @@
    "Longitude": -73.98732,
    "Number of Records": 1,
    "E Sense Atte": 94,
-   "E Sense Medi": 27
+   "medi": 27
  },
  {
    "Fid": 8544,
@@ -654,7 +654,7 @@
    "Longitude": -73.987105,
    "Number of Records": 1,
    "E Sense Atte": 94,
-   "E Sense Medi": 27
+   "medi": 27
  },
  {
    "Fid": 7454,
@@ -663,7 +663,7 @@
    "Longitude": -74.005479,
    "Number of Records": 1,
    "E Sense Atte": 96,
-   "E Sense Medi": 27
+   "medi": 27
  },
  {
    "Fid": 58728,
@@ -672,7 +672,7 @@
    "Longitude": -73.938409,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 27
+   "medi": 27
  },
  {
    "Fid": 11715,
@@ -681,7 +681,7 @@
    "Longitude": -73.97061,
    "Number of Records": 1,
    "E Sense Atte": 16,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 25521,
@@ -690,7 +690,7 @@
    "Longitude": -73.982558,
    "Number of Records": 1,
    "E Sense Atte": 20,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 18562,
@@ -699,7 +699,7 @@
    "Longitude": -73.931453,
    "Number of Records": 1,
    "E Sense Atte": 27,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 30934,
@@ -708,7 +708,7 @@
    "Longitude": -74.00706,
    "Number of Records": 1,
    "E Sense Atte": 29,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 16702,
@@ -717,7 +717,7 @@
    "Longitude": -73.924453,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 46248,
@@ -726,7 +726,7 @@
    "Longitude": -73.978904,
    "Number of Records": 1,
    "E Sense Atte": 41,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 62346,
@@ -735,7 +735,7 @@
    "Longitude": -73.979591,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 60401,
@@ -744,7 +744,7 @@
    "Longitude": -73.971232,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 73415,
@@ -753,7 +753,7 @@
    "Longitude": -74.009732,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 62350,
@@ -762,7 +762,7 @@
    "Longitude": -73.979564,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 29792,
@@ -771,7 +771,7 @@
    "Longitude": -73.968652,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 29776,
@@ -780,7 +780,7 @@
    "Longitude": -73.968452,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 20856,
@@ -789,7 +789,7 @@
    "Longitude": -73.93112,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 33321,
@@ -798,7 +798,7 @@
    "Longitude": -73.928282,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 74479,
@@ -807,7 +807,7 @@
    "Longitude": -74.011207,
    "Number of Records": 1,
    "E Sense Atte": 81,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 83008,
@@ -816,7 +816,7 @@
    "Longitude": -74.000051,
    "Number of Records": 1,
    "E Sense Atte": 84,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 70872,
@@ -825,7 +825,7 @@
    "Longitude": -74.011023,
    "Number of Records": 1,
    "E Sense Atte": 90,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 43692,
@@ -834,7 +834,7 @@
    "Longitude": -73.981637,
    "Number of Records": 1,
    "E Sense Atte": 96,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 88112,
@@ -843,7 +843,7 @@
    "Longitude": -73.987005,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 88122,
@@ -852,7 +852,7 @@
    "Longitude": -73.986504,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 31574,
@@ -861,7 +861,7 @@
    "Longitude": -73.981176,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 31576,
@@ -870,7 +870,7 @@
    "Longitude": -73.981135,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 31584,
@@ -879,7 +879,7 @@
    "Longitude": -73.981133,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 31569,
@@ -888,7 +888,7 @@
    "Longitude": -73.98098,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 66585,
@@ -897,7 +897,7 @@
    "Longitude": -73.974608,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 29
+   "medi": 29
  },
  {
    "Fid": 60135,
@@ -906,7 +906,7 @@
    "Longitude": -73.967379,
    "Number of Records": 1,
    "E Sense Atte": 21,
-   "E Sense Medi": 30
+   "medi": 30
  },
  {
    "Fid": 17844,
@@ -915,7 +915,7 @@
    "Longitude": -73.931259,
    "Number of Records": 1,
    "E Sense Atte": 21,
-   "E Sense Medi": 30
+   "medi": 30
  },
  {
    "Fid": 84754,
@@ -924,7 +924,7 @@
    "Longitude": -73.991879,
    "Number of Records": 1,
    "E Sense Atte": 38,
-   "E Sense Medi": 30
+   "medi": 30
  },
  {
    "Fid": 66925,
@@ -933,7 +933,7 @@
    "Longitude": -74.00055,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 30
+   "medi": 30
  },
  {
    "Fid": 6545,
@@ -942,7 +942,7 @@
    "Longitude": -74.005037,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 30
+   "medi": 30
  },
  {
    "Fid": 82895,
@@ -951,7 +951,7 @@
    "Longitude": -74.006148,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 30
+   "medi": 30
  },
  {
    "Fid": 62533,
@@ -960,7 +960,7 @@
    "Longitude": -73.983534,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 30
+   "medi": 30
  },
  {
    "Fid": 63051,
@@ -969,7 +969,7 @@
    "Longitude": -73.98805,
    "Number of Records": 1,
    "E Sense Atte": 57,
-   "E Sense Medi": 30
+   "medi": 30
  },
  {
    "Fid": 79817,
@@ -978,7 +978,7 @@
    "Longitude": -73.9796,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 30
+   "medi": 30
  },
  {
    "Fid": 87451,
@@ -987,7 +987,7 @@
    "Longitude": -73.998363,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 30
+   "medi": 30
  },
  {
    "Fid": 69221,
@@ -996,7 +996,7 @@
    "Longitude": -73.995938,
    "Number of Records": 1,
    "E Sense Atte": 70,
-   "E Sense Medi": 30
+   "medi": 30
  },
  {
    "Fid": 50923,
@@ -1005,7 +1005,7 @@
    "Longitude": -73.993472,
    "Number of Records": 1,
    "E Sense Atte": 70,
-   "E Sense Medi": 30
+   "medi": 30
  },
  {
    "Fid": 46968,
@@ -1014,7 +1014,7 @@
    "Longitude": -74.003207,
    "Number of Records": 1,
    "E Sense Atte": 90,
-   "E Sense Medi": 30
+   "medi": 30
  },
  {
    "Fid": 87469,
@@ -1023,7 +1023,7 @@
    "Longitude": -73.997654,
    "Number of Records": 1,
    "E Sense Atte": 94,
-   "E Sense Medi": 30
+   "medi": 30
  },
  {
    "Fid": 84286,
@@ -1032,7 +1032,7 @@
    "Longitude": -73.989918,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 30
+   "medi": 30
  },
  {
    "Fid": 58724,
@@ -1041,7 +1041,7 @@
    "Longitude": -73.938357,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 30
+   "medi": 30
  },
  {
    "Fid": 67682,
@@ -1050,7 +1050,7 @@
    "Longitude": -74.005469,
    "Number of Records": 1,
    "E Sense Atte": 8,
-   "E Sense Medi": 34
+   "medi": 34
  },
  {
    "Fid": 51659,
@@ -1059,7 +1059,7 @@
    "Longitude": -73.978669,
    "Number of Records": 1,
    "E Sense Atte": 20,
-   "E Sense Medi": 34
+   "medi": 34
  },
  {
    "Fid": 46288,
@@ -1068,7 +1068,7 @@
    "Longitude": -73.978904,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 34
+   "medi": 34
  },
  {
    "Fid": 24010,
@@ -1077,7 +1077,7 @@
    "Longitude": -73.989037,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 34
+   "medi": 34
  },
  {
    "Fid": 43831,
@@ -1086,7 +1086,7 @@
    "Longitude": -73.977628,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 34
+   "medi": 34
  },
  {
    "Fid": 58937,
@@ -1095,7 +1095,7 @@
    "Longitude": -73.943027,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 34
+   "medi": 34
  },
  {
    "Fid": 37538,
@@ -1104,7 +1104,7 @@
    "Longitude": -73.938289,
    "Number of Records": 1,
    "E Sense Atte": 51,
-   "E Sense Medi": 34
+   "medi": 34
  },
  {
    "Fid": 47208,
@@ -1113,7 +1113,7 @@
    "Longitude": -73.989599,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 34
+   "medi": 34
  },
  {
    "Fid": 18360,
@@ -1122,7 +1122,7 @@
    "Longitude": -73.932555,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 34
+   "medi": 34
  },
  {
    "Fid": 17561,
@@ -1131,7 +1131,7 @@
    "Longitude": -73.928868,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 34
+   "medi": 34
  },
  {
    "Fid": 58436,
@@ -1140,7 +1140,7 @@
    "Longitude": -73.941602,
    "Number of Records": 1,
    "E Sense Atte": 57,
-   "E Sense Medi": 34
+   "medi": 34
  },
  {
    "Fid": 43892,
@@ -1149,7 +1149,7 @@
    "Longitude": -73.975435,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 34
+   "medi": 34
  },
  {
    "Fid": 84813,
@@ -1158,7 +1158,7 @@
    "Longitude": -73.991879,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 34
+   "medi": 34
  },
  {
    "Fid": 20825,
@@ -1167,7 +1167,7 @@
    "Longitude": -73.931846,
    "Number of Records": 1,
    "E Sense Atte": 64,
-   "E Sense Medi": 34
+   "medi": 34
  },
  {
    "Fid": 41347,
@@ -1176,7 +1176,7 @@
    "Longitude": -73.986278,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 34
+   "medi": 34
  },
  {
    "Fid": 4115,
@@ -1185,7 +1185,7 @@
    "Longitude": -73.989547,
    "Number of Records": 1,
    "E Sense Atte": 74,
-   "E Sense Medi": 34
+   "medi": 34
  },
  {
    "Fid": 83759,
@@ -1194,7 +1194,7 @@
    "Longitude": -73.996065,
    "Number of Records": 1,
    "E Sense Atte": 87,
-   "E Sense Medi": 34
+   "medi": 34
  },
  {
    "Fid": 21497,
@@ -1203,7 +1203,7 @@
    "Longitude": -73.945927,
    "Number of Records": 1,
    "E Sense Atte": 88,
-   "E Sense Medi": 34
+   "medi": 34
  },
  {
    "Fid": 87440,
@@ -1212,7 +1212,7 @@
    "Longitude": -73.999013,
    "Number of Records": 1,
    "E Sense Atte": 94,
-   "E Sense Medi": 34
+   "medi": 34
  },
  {
    "Fid": 87642,
@@ -1221,7 +1221,7 @@
    "Longitude": -73.992492,
    "Number of Records": 1,
    "E Sense Atte": 1,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 54783,
@@ -1230,7 +1230,7 @@
    "Longitude": -73.985549,
    "Number of Records": 1,
    "E Sense Atte": 11,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 58827,
@@ -1239,7 +1239,7 @@
    "Longitude": -73.940778,
    "Number of Records": 1,
    "E Sense Atte": 21,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 16243,
@@ -1248,7 +1248,7 @@
    "Longitude": -73.918817,
    "Number of Records": 1,
    "E Sense Atte": 23,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 84108,
@@ -1257,7 +1257,7 @@
    "Longitude": -73.990422,
    "Number of Records": 1,
    "E Sense Atte": 29,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 59781,
@@ -1266,7 +1266,7 @@
    "Longitude": -73.95714,
    "Number of Records": 1,
    "E Sense Atte": 29,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 66144,
@@ -1275,7 +1275,7 @@
    "Longitude": -73.970541,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 59542,
@@ -1284,7 +1284,7 @@
    "Longitude": -73.952983,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 79090,
@@ -1293,7 +1293,7 @@
    "Longitude": -73.98792,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 14413,
@@ -1302,7 +1302,7 @@
    "Longitude": -73.989433,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 6714,
@@ -1311,7 +1311,7 @@
    "Longitude": -74.00202,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 36597,
@@ -1320,7 +1320,7 @@
    "Longitude": -73.934712,
    "Number of Records": 1,
    "E Sense Atte": 47,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 80053,
@@ -1329,7 +1329,7 @@
    "Longitude": -73.982209,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 61910,
@@ -1338,7 +1338,7 @@
    "Longitude": -73.977727,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 37148,
@@ -1347,7 +1347,7 @@
    "Longitude": -73.934293,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 49968,
@@ -1356,7 +1356,7 @@
    "Longitude": -73.993788,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 87715,
@@ -1365,7 +1365,7 @@
    "Longitude": -73.992714,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 78122,
@@ -1374,7 +1374,7 @@
    "Longitude": -73.985174,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 40456,
@@ -1383,7 +1383,7 @@
    "Longitude": -73.993532,
    "Number of Records": 1,
    "E Sense Atte": 69,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 62241,
@@ -1392,7 +1392,7 @@
    "Longitude": -73.982193,
    "Number of Records": 1,
    "E Sense Atte": 70,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 24034,
@@ -1401,7 +1401,7 @@
    "Longitude": -73.988703,
    "Number of Records": 1,
    "E Sense Atte": 94,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 57620,
@@ -1410,7 +1410,7 @@
    "Longitude": -73.957575,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 57622,
@@ -1419,7 +1419,7 @@
    "Longitude": -73.957545,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 35
+   "medi": 35
  },
  {
    "Fid": 68403,
@@ -1428,7 +1428,7 @@
    "Longitude": -74.006769,
    "Number of Records": 1,
    "E Sense Atte": 23,
-   "E Sense Medi": 37
+   "medi": 37
  },
  {
    "Fid": 62005,
@@ -1437,7 +1437,7 @@
    "Longitude": -73.979424,
    "Number of Records": 1,
    "E Sense Atte": 23,
-   "E Sense Medi": 37
+   "medi": 37
  },
  {
    "Fid": 61537,
@@ -1446,7 +1446,7 @@
    "Longitude": -73.974591,
    "Number of Records": 1,
    "E Sense Atte": 24,
-   "E Sense Medi": 37
+   "medi": 37
  },
  {
    "Fid": 48694,
@@ -1455,7 +1455,7 @@
    "Longitude": -73.979585,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 37
+   "medi": 37
  },
  {
    "Fid": 52592,
@@ -1464,7 +1464,7 @@
    "Longitude": -73.956242,
    "Number of Records": 1,
    "E Sense Atte": 37,
-   "E Sense Medi": 37
+   "medi": 37
  },
  {
    "Fid": 38670,
@@ -1473,7 +1473,7 @@
    "Longitude": -73.941153,
    "Number of Records": 1,
    "E Sense Atte": 37,
-   "E Sense Medi": 37
+   "medi": 37
  },
  {
    "Fid": 83842,
@@ -1482,7 +1482,7 @@
    "Longitude": -73.994966,
    "Number of Records": 1,
    "E Sense Atte": 41,
-   "E Sense Medi": 37
+   "medi": 37
  },
  {
    "Fid": 6379,
@@ -1491,7 +1491,7 @@
    "Longitude": -74.004869,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 37
+   "medi": 37
  },
  {
    "Fid": 87572,
@@ -1500,7 +1500,7 @@
    "Longitude": -73.994546,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 37
+   "medi": 37
  },
  {
    "Fid": 66765,
@@ -1509,7 +1509,7 @@
    "Longitude": -73.997563,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 37
+   "medi": 37
  },
  {
    "Fid": 24439,
@@ -1518,7 +1518,7 @@
    "Longitude": -74.005465,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 37
+   "medi": 37
  },
  {
    "Fid": 58901,
@@ -1527,7 +1527,7 @@
    "Longitude": -73.942044,
    "Number of Records": 1,
    "E Sense Atte": 57,
-   "E Sense Medi": 37
+   "medi": 37
  },
  {
    "Fid": 73412,
@@ -1536,7 +1536,7 @@
    "Longitude": -74.009942,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 37
+   "medi": 37
  },
  {
    "Fid": 7282,
@@ -1545,7 +1545,7 @@
    "Longitude": -74.004647,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 37
+   "medi": 37
  },
  {
    "Fid": 74745,
@@ -1554,7 +1554,7 @@
    "Longitude": -74.007238,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 37
+   "medi": 37
  },
  {
    "Fid": 74750,
@@ -1563,7 +1563,7 @@
    "Longitude": -74.007192,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 37
+   "medi": 37
  },
  {
    "Fid": 66957,
@@ -1572,7 +1572,7 @@
    "Longitude": -74.000183,
    "Number of Records": 1,
    "E Sense Atte": 77,
-   "E Sense Medi": 37
+   "medi": 37
  },
  {
    "Fid": 4456,
@@ -1581,7 +1581,7 @@
    "Longitude": -73.999563,
    "Number of Records": 1,
    "E Sense Atte": 84,
-   "E Sense Medi": 37
+   "medi": 37
  },
  {
    "Fid": 81255,
@@ -1590,7 +1590,7 @@
    "Longitude": -73.993576,
    "Number of Records": 1,
    "E Sense Atte": 84,
-   "E Sense Medi": 37
+   "medi": 37
  },
  {
    "Fid": 60390,
@@ -1599,7 +1599,7 @@
    "Longitude": -73.97091,
    "Number of Records": 1,
    "E Sense Atte": 90,
-   "E Sense Medi": 37
+   "medi": 37
  },
  {
    "Fid": 8391,
@@ -1608,7 +1608,7 @@
    "Longitude": -73.98593,
    "Number of Records": 1,
    "E Sense Atte": 1,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 43030,
@@ -1617,7 +1617,7 @@
    "Longitude": -73.987278,
    "Number of Records": 1,
    "E Sense Atte": 13,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 21424,
@@ -1626,7 +1626,7 @@
    "Longitude": -73.948171,
    "Number of Records": 1,
    "E Sense Atte": 13,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 13256,
@@ -1635,7 +1635,7 @@
    "Longitude": -73.982305,
    "Number of Records": 1,
    "E Sense Atte": 26,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 1679,
@@ -1644,7 +1644,7 @@
    "Longitude": -74.015014,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 231,
@@ -1653,7 +1653,7 @@
    "Longitude": -74.006799,
    "Number of Records": 1,
    "E Sense Atte": 37,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 33760,
@@ -1662,7 +1662,7 @@
    "Longitude": -73.929749,
    "Number of Records": 1,
    "E Sense Atte": 37,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 63096,
@@ -1671,7 +1671,7 @@
    "Longitude": -73.987306,
    "Number of Records": 1,
    "E Sense Atte": 38,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 12760,
@@ -1680,7 +1680,7 @@
    "Longitude": -73.973449,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 62872,
@@ -1689,7 +1689,7 @@
    "Longitude": -73.98765,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 16077,
@@ -1698,7 +1698,7 @@
    "Longitude": -73.925987,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 3542,
@@ -1707,7 +1707,7 @@
    "Longitude": -74.006988,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 21539,
@@ -1716,7 +1716,7 @@
    "Longitude": -73.94496,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 2408,
@@ -1725,7 +1725,7 @@
    "Longitude": -74.0137,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 11416,
@@ -1734,7 +1734,7 @@
    "Longitude": -73.974117,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 61586,
@@ -1743,7 +1743,7 @@
    "Longitude": -73.974735,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 73519,
@@ -1752,7 +1752,7 @@
    "Longitude": -74.005862,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 6129,
@@ -1761,7 +1761,7 @@
    "Longitude": -74.001856,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 49546,
@@ -1770,7 +1770,7 @@
    "Longitude": -74.00237,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 44095,
@@ -1779,7 +1779,7 @@
    "Longitude": -73.967386,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 50832,
@@ -1788,7 +1788,7 @@
    "Longitude": -73.992469,
    "Number of Records": 1,
    "E Sense Atte": 64,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 48183,
@@ -1797,7 +1797,7 @@
    "Longitude": -73.981966,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 71403,
@@ -1806,7 +1806,7 @@
    "Longitude": -73.998313,
    "Number of Records": 1,
    "E Sense Atte": 69,
-   "E Sense Medi": 38
+   "medi": 38
  },
  {
    "Fid": 71246,
@@ -1815,7 +1815,7 @@
    "Longitude": -74.005968,
    "Number of Records": 1,
    "E Sense Atte": 10,
-   "E Sense Medi": 40
+   "medi": 40
  },
  {
    "Fid": 45948,
@@ -1824,7 +1824,7 @@
    "Longitude": -73.97194,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 40
+   "medi": 40
  },
  {
    "Fid": 79400,
@@ -1833,7 +1833,7 @@
    "Longitude": -73.986245,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 40
+   "medi": 40
  },
  {
    "Fid": 58303,
@@ -1842,7 +1842,7 @@
    "Longitude": -73.944429,
    "Number of Records": 1,
    "E Sense Atte": 35,
-   "E Sense Medi": 40
+   "medi": 40
  },
  {
    "Fid": 17093,
@@ -1851,7 +1851,7 @@
    "Longitude": -73.92211,
    "Number of Records": 1,
    "E Sense Atte": 41,
-   "E Sense Medi": 40
+   "medi": 40
  },
  {
    "Fid": 36815,
@@ -1860,7 +1860,7 @@
    "Longitude": -73.937658,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 40
+   "medi": 40
  },
  {
    "Fid": 60258,
@@ -1869,7 +1869,7 @@
    "Longitude": -73.968746,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 40
+   "medi": 40
  },
  {
    "Fid": 20721,
@@ -1878,7 +1878,7 @@
    "Longitude": -73.93329,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 40
+   "medi": 40
  },
  {
    "Fid": 73178,
@@ -1887,7 +1887,7 @@
    "Longitude": -74.010548,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 40
+   "medi": 40
  },
  {
    "Fid": 74510,
@@ -1896,7 +1896,7 @@
    "Longitude": -74.010574,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 40
+   "medi": 40
  },
  {
    "Fid": 73808,
@@ -1905,7 +1905,7 @@
    "Longitude": -74.009794,
    "Number of Records": 1,
    "E Sense Atte": 74,
-   "E Sense Medi": 40
+   "medi": 40
  },
  {
    "Fid": 67619,
@@ -1914,7 +1914,7 @@
    "Longitude": -74.005469,
    "Number of Records": 1,
    "E Sense Atte": 26,
-   "E Sense Medi": 41
+   "medi": 41
  },
  {
    "Fid": 17862,
@@ -1923,7 +1923,7 @@
    "Longitude": -73.931475,
    "Number of Records": 1,
    "E Sense Atte": 38,
-   "E Sense Medi": 41
+   "medi": 41
  },
  {
    "Fid": 20849,
@@ -1932,7 +1932,7 @@
    "Longitude": -73.931239,
    "Number of Records": 1,
    "E Sense Atte": 38,
-   "E Sense Medi": 41
+   "medi": 41
  },
  {
    "Fid": 60092,
@@ -1941,7 +1941,7 @@
    "Longitude": -73.966058,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 41
+   "medi": 41
  },
  {
    "Fid": 59918,
@@ -1950,7 +1950,7 @@
    "Longitude": -73.960277,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 41
+   "medi": 41
  },
  {
    "Fid": 74660,
@@ -1959,7 +1959,7 @@
    "Longitude": -74.008082,
    "Number of Records": 1,
    "E Sense Atte": 41,
-   "E Sense Medi": 41
+   "medi": 41
  },
  {
    "Fid": 16685,
@@ -1968,7 +1968,7 @@
    "Longitude": -73.923523,
    "Number of Records": 1,
    "E Sense Atte": 41,
-   "E Sense Medi": 41
+   "medi": 41
  },
  {
    "Fid": 74379,
@@ -1977,7 +1977,7 @@
    "Longitude": -74.011756,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 41
+   "medi": 41
  },
  {
    "Fid": 56905,
@@ -1986,7 +1986,7 @@
    "Longitude": -73.955739,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 41
+   "medi": 41
  },
  {
    "Fid": 14746,
@@ -1995,7 +1995,7 @@
    "Longitude": -73.991212,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 41
+   "medi": 41
  },
  {
    "Fid": 53832,
@@ -2004,7 +2004,7 @@
    "Longitude": -73.950302,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 41
+   "medi": 41
  },
  {
    "Fid": 65177,
@@ -2013,7 +2013,7 @@
    "Longitude": -73.953796,
    "Number of Records": 1,
    "E Sense Atte": 81,
-   "E Sense Medi": 41
+   "medi": 41
  },
  {
    "Fid": 72533,
@@ -2022,7 +2022,7 @@
    "Longitude": -74.002908,
    "Number of Records": 1,
    "E Sense Atte": 84,
-   "E Sense Medi": 41
+   "medi": 41
  },
  {
    "Fid": 5224,
@@ -2031,7 +2031,7 @@
    "Longitude": -74.00385,
    "Number of Records": 1,
    "E Sense Atte": 88,
-   "E Sense Medi": 41
+   "medi": 41
  },
  {
    "Fid": 87941,
@@ -2040,7 +2040,7 @@
    "Longitude": -73.989919,
    "Number of Records": 1,
    "E Sense Atte": 13,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 79137,
@@ -2049,7 +2049,7 @@
    "Longitude": -73.98792,
    "Number of Records": 1,
    "E Sense Atte": 16,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 27693,
@@ -2058,7 +2058,7 @@
    "Longitude": -73.956427,
    "Number of Records": 1,
    "E Sense Atte": 20,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 78858,
@@ -2067,7 +2067,7 @@
    "Longitude": -73.98792,
    "Number of Records": 1,
    "E Sense Atte": 21,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 29303,
@@ -2076,7 +2076,7 @@
    "Longitude": -73.961798,
    "Number of Records": 1,
    "E Sense Atte": 24,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 75001,
@@ -2085,7 +2085,7 @@
    "Longitude": -74.009435,
    "Number of Records": 1,
    "E Sense Atte": 27,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 61864,
@@ -2094,7 +2094,7 @@
    "Longitude": -73.977738,
    "Number of Records": 1,
    "E Sense Atte": 27,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 12238,
@@ -2103,7 +2103,7 @@
    "Longitude": -73.959717,
    "Number of Records": 1,
    "E Sense Atte": 29,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 62000,
@@ -2112,7 +2112,7 @@
    "Longitude": -73.979147,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 79045,
@@ -2121,7 +2121,7 @@
    "Longitude": -73.98792,
    "Number of Records": 1,
    "E Sense Atte": 37,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 64938,
@@ -2130,7 +2130,7 @@
    "Longitude": -73.94908,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 35526,
@@ -2139,7 +2139,7 @@
    "Longitude": -73.928453,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 74904,
@@ -2148,7 +2148,7 @@
    "Longitude": -74.008399,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 18934,
@@ -2157,7 +2157,7 @@
    "Longitude": -73.929396,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 4011,
@@ -2166,7 +2166,7 @@
    "Longitude": -73.993076,
    "Number of Records": 1,
    "E Sense Atte": 47,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 78230,
@@ -2175,7 +2175,7 @@
    "Longitude": -73.984902,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 38827,
@@ -2184,7 +2184,7 @@
    "Longitude": -73.936089,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 22680,
@@ -2193,7 +2193,7 @@
    "Longitude": -73.955161,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 22036,
@@ -2202,7 +2202,7 @@
    "Longitude": -73.933615,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 16196,
@@ -2211,7 +2211,7 @@
    "Longitude": -73.920577,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 82731,
@@ -2220,7 +2220,7 @@
    "Longitude": -74.010929,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 1872,
@@ -2229,7 +2229,7 @@
    "Longitude": -74.016363,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 51930,
@@ -2238,7 +2238,7 @@
    "Longitude": -73.97534,
    "Number of Records": 1,
    "E Sense Atte": 64,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 47414,
@@ -2247,7 +2247,7 @@
    "Longitude": -73.994148,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 67284,
@@ -2256,7 +2256,7 @@
    "Longitude": -74.004474,
    "Number of Records": 1,
    "E Sense Atte": 69,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 6780,
@@ -2265,7 +2265,7 @@
    "Longitude": -74.000651,
    "Number of Records": 1,
    "E Sense Atte": 75,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 72152,
@@ -2274,7 +2274,7 @@
    "Longitude": -73.996106,
    "Number of Records": 1,
    "E Sense Atte": 75,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 62242,
@@ -2283,7 +2283,7 @@
    "Longitude": -73.982192,
    "Number of Records": 1,
    "E Sense Atte": 75,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 34792,
@@ -2292,7 +2292,7 @@
    "Longitude": -73.931502,
    "Number of Records": 1,
    "E Sense Atte": 75,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 33545,
@@ -2301,7 +2301,7 @@
    "Longitude": -73.927924,
    "Number of Records": 1,
    "E Sense Atte": 77,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 78605,
@@ -2310,7 +2310,7 @@
    "Longitude": -73.994357,
    "Number of Records": 1,
    "E Sense Atte": 78,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 57963,
@@ -2319,7 +2319,7 @@
    "Longitude": -73.952012,
    "Number of Records": 1,
    "E Sense Atte": 80,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 73351,
@@ -2328,7 +2328,7 @@
    "Longitude": -74.009203,
    "Number of Records": 1,
    "E Sense Atte": 83,
-   "E Sense Medi": 43
+   "medi": 43
  },
  {
    "Fid": 1472,
@@ -2337,7 +2337,7 @@
    "Longitude": -74.009286,
    "Number of Records": 1,
    "E Sense Atte": 7,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 24261,
@@ -2346,7 +2346,7 @@
    "Longitude": -74.005114,
    "Number of Records": 1,
    "E Sense Atte": 20,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 75241,
@@ -2355,7 +2355,7 @@
    "Longitude": -74.007123,
    "Number of Records": 1,
    "E Sense Atte": 21,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 70944,
@@ -2364,7 +2364,7 @@
    "Longitude": -74.011922,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 37940,
@@ -2373,7 +2373,7 @@
    "Longitude": -73.942507,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 71351,
@@ -2382,7 +2382,7 @@
    "Longitude": -74.000819,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 1494,
@@ -2391,7 +2391,7 @@
    "Longitude": -74.008227,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 6859,
@@ -2400,7 +2400,7 @@
    "Longitude": -73.997085,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 61990,
@@ -2409,7 +2409,7 @@
    "Longitude": -73.979005,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 21779,
@@ -2418,7 +2418,7 @@
    "Longitude": -73.938826,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 18813,
@@ -2427,7 +2427,7 @@
    "Longitude": -73.929307,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 50945,
@@ -2436,7 +2436,7 @@
    "Longitude": -73.993828,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 29974,
@@ -2445,7 +2445,7 @@
    "Longitude": -73.974027,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 27843,
@@ -2454,7 +2454,7 @@
    "Longitude": -73.949951,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 17286,
@@ -2463,7 +2463,7 @@
    "Longitude": -73.91494,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 18367,
@@ -2472,7 +2472,7 @@
    "Longitude": -73.93255,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 68467,
@@ -2481,7 +2481,7 @@
    "Longitude": -74.006427,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 68468,
@@ -2490,7 +2490,7 @@
    "Longitude": -74.006415,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 41446,
@@ -2499,7 +2499,7 @@
    "Longitude": -73.982476,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 54455,
@@ -2508,7 +2508,7 @@
    "Longitude": -73.973111,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 55847,
@@ -2517,7 +2517,7 @@
    "Longitude": -73.93549,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 71731,
@@ -2526,7 +2526,7 @@
    "Longitude": -73.990959,
    "Number of Records": 1,
    "E Sense Atte": 83,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 84284,
@@ -2535,7 +2535,7 @@
    "Longitude": -73.989918,
    "Number of Records": 1,
    "E Sense Atte": 96,
-   "E Sense Medi": 44
+   "medi": 44
  },
  {
    "Fid": 32170,
@@ -2544,7 +2544,7 @@
    "Longitude": -73.987539,
    "Number of Records": 1,
    "E Sense Atte": 23,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 3622,
@@ -2553,7 +2553,7 @@
    "Longitude": -74.004369,
    "Number of Records": 1,
    "E Sense Atte": 27,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 26881,
@@ -2562,7 +2562,7 @@
    "Longitude": -73.980827,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 1458,
@@ -2571,7 +2571,7 @@
    "Longitude": -74.010119,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 51726,
@@ -2580,7 +2580,7 @@
    "Longitude": -73.978014,
    "Number of Records": 1,
    "E Sense Atte": 35,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 11798,
@@ -2589,7 +2589,7 @@
    "Longitude": -73.972143,
    "Number of Records": 1,
    "E Sense Atte": 37,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 25198,
@@ -2598,7 +2598,7 @@
    "Longitude": -73.99207,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 24888,
@@ -2607,7 +2607,7 @@
    "Longitude": -73.998461,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 11729,
@@ -2616,7 +2616,7 @@
    "Longitude": -73.970938,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 49151,
@@ -2625,7 +2625,7 @@
    "Longitude": -73.997353,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 78382,
@@ -2634,7 +2634,7 @@
    "Longitude": -73.989867,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 74726,
@@ -2643,7 +2643,7 @@
    "Longitude": -74.007306,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 13268,
@@ -2652,7 +2652,7 @@
    "Longitude": -73.982267,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 9004,
@@ -2661,7 +2661,7 @@
    "Longitude": -73.996008,
    "Number of Records": 1,
    "E Sense Atte": 57,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 87122,
@@ -2670,7 +2670,7 @@
    "Longitude": -73.998515,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 50401,
@@ -2679,7 +2679,7 @@
    "Longitude": -73.990318,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 73006,
@@ -2688,7 +2688,7 @@
    "Longitude": -74.013273,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 44452,
@@ -2697,7 +2697,7 @@
    "Longitude": -73.937106,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 22121,
@@ -2706,7 +2706,7 @@
    "Longitude": -73.936507,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 77724,
@@ -2715,7 +2715,7 @@
    "Longitude": -73.981641,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 9813,
@@ -2724,7 +2724,7 @@
    "Longitude": -73.987156,
    "Number of Records": 1,
    "E Sense Atte": 70,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 53146,
@@ -2733,7 +2733,7 @@
    "Longitude": -73.93811,
    "Number of Records": 1,
    "E Sense Atte": 81,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 86174,
@@ -2742,7 +2742,7 @@
    "Longitude": -73.994706,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 47
+   "medi": 47
  },
  {
    "Fid": 37163,
@@ -2751,7 +2751,7 @@
    "Longitude": -73.934293,
    "Number of Records": 1,
    "E Sense Atte": 17,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 44055,
@@ -2760,7 +2760,7 @@
    "Longitude": -73.969233,
    "Number of Records": 1,
    "E Sense Atte": 24,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 43110,
@@ -2769,7 +2769,7 @@
    "Longitude": -73.987385,
    "Number of Records": 1,
    "E Sense Atte": 26,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 60737,
@@ -2778,7 +2778,7 @@
    "Longitude": -73.976771,
    "Number of Records": 1,
    "E Sense Atte": 27,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 51680,
@@ -2787,7 +2787,7 @@
    "Longitude": -73.978621,
    "Number of Records": 1,
    "E Sense Atte": 29,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 27740,
@@ -2796,7 +2796,7 @@
    "Longitude": -73.954895,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 57550,
@@ -2805,7 +2805,7 @@
    "Longitude": -73.959237,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 78431,
@@ -2814,7 +2814,7 @@
    "Longitude": -73.991833,
    "Number of Records": 1,
    "E Sense Atte": 35,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 48778,
@@ -2823,7 +2823,7 @@
    "Longitude": -73.977229,
    "Number of Records": 1,
    "E Sense Atte": 35,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 24590,
@@ -2832,7 +2832,7 @@
    "Longitude": -74.003642,
    "Number of Records": 1,
    "E Sense Atte": 38,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 74083,
@@ -2841,7 +2841,7 @@
    "Longitude": -74.010226,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 25682,
@@ -2850,7 +2850,7 @@
    "Longitude": -73.977652,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 59180,
@@ -2859,7 +2859,7 @@
    "Longitude": -73.947703,
    "Number of Records": 1,
    "E Sense Atte": 47,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 12720,
@@ -2868,7 +2868,7 @@
    "Longitude": -73.972622,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 19798,
@@ -2877,7 +2877,7 @@
    "Longitude": -73.939036,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 34834,
@@ -2886,7 +2886,7 @@
    "Longitude": -73.931941,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 59754,
@@ -2895,7 +2895,7 @@
    "Longitude": -73.956876,
    "Number of Records": 1,
    "E Sense Atte": 51,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 87574,
@@ -2904,7 +2904,7 @@
    "Longitude": -73.994523,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 19729,
@@ -2913,7 +2913,7 @@
    "Longitude": -73.939252,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 33457,
@@ -2922,7 +2922,7 @@
    "Longitude": -73.928227,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 38794,
@@ -2931,7 +2931,7 @@
    "Longitude": -73.937468,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 82062,
@@ -2940,7 +2940,7 @@
    "Longitude": -74.003932,
    "Number of Records": 1,
    "E Sense Atte": 64,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 62054,
@@ -2949,7 +2949,7 @@
    "Longitude": -73.980922,
    "Number of Records": 1,
    "E Sense Atte": 64,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 20950,
@@ -2958,7 +2958,7 @@
    "Longitude": -73.930557,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 492,
@@ -2967,7 +2967,7 @@
    "Longitude": -74.001942,
    "Number of Records": 1,
    "E Sense Atte": 70,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 74425,
@@ -2976,7 +2976,7 @@
    "Longitude": -74.011547,
    "Number of Records": 1,
    "E Sense Atte": 83,
-   "E Sense Medi": 48
+   "medi": 48
  },
  {
    "Fid": 10545,
@@ -2985,7 +2985,7 @@
    "Longitude": -73.983251,
    "Number of Records": 1,
    "E Sense Atte": 11,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 3742,
@@ -2994,7 +2994,7 @@
    "Longitude": -73.999751,
    "Number of Records": 1,
    "E Sense Atte": 13,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 18616,
@@ -3003,7 +3003,7 @@
    "Longitude": -73.931453,
    "Number of Records": 1,
    "E Sense Atte": 23,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 19603,
@@ -3012,7 +3012,7 @@
    "Longitude": -73.938381,
    "Number of Records": 1,
    "E Sense Atte": 24,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 59933,
@@ -3021,7 +3021,7 @@
    "Longitude": -73.960894,
    "Number of Records": 1,
    "E Sense Atte": 26,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 24770,
@@ -3030,7 +3030,7 @@
    "Longitude": -74.00103,
    "Number of Records": 1,
    "E Sense Atte": 27,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 31173,
@@ -3039,7 +3039,7 @@
    "Longitude": -74.00212,
    "Number of Records": 1,
    "E Sense Atte": 29,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 71923,
@@ -3048,7 +3048,7 @@
    "Longitude": -73.992784,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 22660,
@@ -3057,7 +3057,7 @@
    "Longitude": -73.954483,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 37697,
@@ -3066,7 +3066,7 @@
    "Longitude": -73.938986,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 60036,
@@ -3075,7 +3075,7 @@
    "Longitude": -73.964158,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 75569,
@@ -3084,7 +3084,7 @@
    "Longitude": -74.004314,
    "Number of Records": 1,
    "E Sense Atte": 35,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 86803,
@@ -3093,7 +3093,7 @@
    "Longitude": -73.998551,
    "Number of Records": 1,
    "E Sense Atte": 35,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 45281,
@@ -3102,7 +3102,7 @@
    "Longitude": -73.958712,
    "Number of Records": 1,
    "E Sense Atte": 38,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 10409,
@@ -3111,7 +3111,7 @@
    "Longitude": -73.983883,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 10408,
@@ -3120,7 +3120,7 @@
    "Longitude": -73.983871,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 37211,
@@ -3129,7 +3129,7 @@
    "Longitude": -73.935105,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 9097,
@@ -3138,7 +3138,7 @@
    "Longitude": -73.996616,
    "Number of Records": 1,
    "E Sense Atte": 41,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 28038,
@@ -3147,7 +3147,7 @@
    "Longitude": -73.94126,
    "Number of Records": 1,
    "E Sense Atte": 47,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 72844,
@@ -3156,7 +3156,7 @@
    "Longitude": -74.012506,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 39349,
@@ -3165,7 +3165,7 @@
    "Longitude": -73.95239,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 24666,
@@ -3174,7 +3174,7 @@
    "Longitude": -74.002783,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 40663,
@@ -3183,7 +3183,7 @@
    "Longitude": -73.987518,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 26238,
@@ -3192,7 +3192,7 @@
    "Longitude": -73.984036,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 79520,
@@ -3201,7 +3201,7 @@
    "Longitude": -73.982882,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 50878,
@@ -3210,7 +3210,7 @@
    "Longitude": -73.992494,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 77860,
@@ -3219,7 +3219,7 @@
    "Longitude": -73.985059,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 38939,
@@ -3228,7 +3228,7 @@
    "Longitude": -73.936202,
    "Number of Records": 1,
    "E Sense Atte": 74,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 50042,
@@ -3237,7 +3237,7 @@
    "Longitude": -73.99301,
    "Number of Records": 1,
    "E Sense Atte": 78,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 28622,
@@ -3246,7 +3246,7 @@
    "Longitude": -73.944613,
    "Number of Records": 1,
    "E Sense Atte": 83,
-   "E Sense Medi": 50
+   "medi": 50
  },
  {
    "Fid": 60861,
@@ -3255,7 +3255,7 @@
    "Longitude": -73.978808,
    "Number of Records": 1,
    "E Sense Atte": 16,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 50091,
@@ -3264,7 +3264,7 @@
    "Longitude": -73.992542,
    "Number of Records": 1,
    "E Sense Atte": 23,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 41421,
@@ -3273,7 +3273,7 @@
    "Longitude": -73.98429,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 11636,
@@ -3282,7 +3282,7 @@
    "Longitude": -73.970336,
    "Number of Records": 1,
    "E Sense Atte": 37,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 57054,
@@ -3291,7 +3291,7 @@
    "Longitude": -73.959279,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 16681,
@@ -3300,7 +3300,7 @@
    "Longitude": -73.923348,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 17130,
@@ -3309,7 +3309,7 @@
    "Longitude": -73.920752,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 74905,
@@ -3318,7 +3318,7 @@
    "Longitude": -74.00843,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 50517,
@@ -3327,7 +3327,7 @@
    "Longitude": -73.989896,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 19507,
@@ -3336,7 +3336,7 @@
    "Longitude": -73.93728,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 77576,
@@ -3345,7 +3345,7 @@
    "Longitude": -73.979244,
    "Number of Records": 1,
    "E Sense Atte": 51,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 31284,
@@ -3354,7 +3354,7 @@
    "Longitude": -73.978055,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 34162,
@@ -3363,7 +3363,7 @@
    "Longitude": -73.928065,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 34601,
@@ -3372,7 +3372,7 @@
    "Longitude": -73.926826,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 83494,
@@ -3381,7 +3381,7 @@
    "Longitude": -73.998502,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 1083,
@@ -3390,7 +3390,7 @@
    "Longitude": -74.006954,
    "Number of Records": 1,
    "E Sense Atte": 57,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 25259,
@@ -3399,7 +3399,7 @@
    "Longitude": -73.990962,
    "Number of Records": 1,
    "E Sense Atte": 57,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 84215,
@@ -3408,7 +3408,7 @@
    "Longitude": -73.986038,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 52807,
@@ -3417,7 +3417,7 @@
    "Longitude": -73.942262,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 82505,
@@ -3426,7 +3426,7 @@
    "Longitude": -74.008952,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 41831,
@@ -3435,7 +3435,7 @@
    "Longitude": -74.002503,
    "Number of Records": 1,
    "E Sense Atte": 70,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 39420,
@@ -3444,7 +3444,7 @@
    "Longitude": -73.955058,
    "Number of Records": 1,
    "E Sense Atte": 78,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 81449,
@@ -3453,7 +3453,7 @@
    "Longitude": -74.000645,
    "Number of Records": 1,
    "E Sense Atte": 88,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 15963,
@@ -3462,7 +3462,7 @@
    "Longitude": -73.927701,
    "Number of Records": 1,
    "E Sense Atte": 88,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 35380,
@@ -3471,7 +3471,7 @@
    "Longitude": -73.929191,
    "Number of Records": 1,
    "E Sense Atte": 93,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 67127,
@@ -3480,7 +3480,7 @@
    "Longitude": -74.000354,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 51
+   "medi": 51
  },
  {
    "Fid": 17604,
@@ -3489,7 +3489,7 @@
    "Longitude": -73.928918,
    "Number of Records": 1,
    "E Sense Atte": 16,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 68933,
@@ -3498,7 +3498,7 @@
    "Longitude": -74.005062,
    "Number of Records": 1,
    "E Sense Atte": 21,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 18443,
@@ -3507,7 +3507,7 @@
    "Longitude": -73.932606,
    "Number of Records": 1,
    "E Sense Atte": 21,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 46955,
@@ -3516,7 +3516,7 @@
    "Longitude": -74.002291,
    "Number of Records": 1,
    "E Sense Atte": 24,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 72303,
@@ -3525,7 +3525,7 @@
    "Longitude": -73.99852,
    "Number of Records": 1,
    "E Sense Atte": 27,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 51674,
@@ -3534,7 +3534,7 @@
    "Longitude": -73.97868,
    "Number of Records": 1,
    "E Sense Atte": 29,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 43194,
@@ -3543,7 +3543,7 @@
    "Longitude": -73.986865,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 57464,
@@ -3552,7 +3552,7 @@
    "Longitude": -73.960664,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 28987,
@@ -3561,7 +3561,7 @@
    "Longitude": -73.950645,
    "Number of Records": 1,
    "E Sense Atte": 37,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 50246,
@@ -3570,7 +3570,7 @@
    "Longitude": -73.991377,
    "Number of Records": 1,
    "E Sense Atte": 38,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 28978,
@@ -3579,7 +3579,7 @@
    "Longitude": -73.950394,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 27462,
@@ -3588,7 +3588,7 @@
    "Longitude": -73.966242,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 12707,
@@ -3597,7 +3597,7 @@
    "Longitude": -73.972354,
    "Number of Records": 1,
    "E Sense Atte": 47,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 23110,
@@ -3606,7 +3606,7 @@
    "Longitude": -73.971096,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 37905,
@@ -3615,7 +3615,7 @@
    "Longitude": -73.93991,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 46619,
@@ -3624,7 +3624,7 @@
    "Longitude": -73.989174,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 67515,
@@ -3633,7 +3633,7 @@
    "Longitude": -74.004699,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 71993,
@@ -3642,7 +3642,7 @@
    "Longitude": -73.992523,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 66588,
@@ -3651,7 +3651,7 @@
    "Longitude": -73.974608,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 58356,
@@ -3660,7 +3660,7 @@
    "Longitude": -73.942831,
    "Number of Records": 1,
    "E Sense Atte": 64,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 77019,
@@ -3669,7 +3669,7 @@
    "Longitude": -73.976748,
    "Number of Records": 1,
    "E Sense Atte": 69,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 33926,
@@ -3678,7 +3678,7 @@
    "Longitude": -73.932388,
    "Number of Records": 1,
    "E Sense Atte": 70,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 18376,
@@ -3687,7 +3687,7 @@
    "Longitude": -73.932508,
    "Number of Records": 1,
    "E Sense Atte": 75,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 38651,
@@ -3696,7 +3696,7 @@
    "Longitude": -73.941519,
    "Number of Records": 1,
    "E Sense Atte": 78,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 86390,
@@ -3705,7 +3705,7 @@
    "Longitude": -73.992927,
    "Number of Records": 1,
    "E Sense Atte": 80,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 35873,
@@ -3714,7 +3714,7 @@
    "Longitude": -73.938545,
    "Number of Records": 1,
    "E Sense Atte": 80,
-   "E Sense Medi": 53
+   "medi": 53
  },
  {
    "Fid": 48240,
@@ -3723,7 +3723,7 @@
    "Longitude": -73.980352,
    "Number of Records": 1,
    "E Sense Atte": 4,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 981,
@@ -3732,7 +3732,7 @@
    "Longitude": -74.010074,
    "Number of Records": 1,
    "E Sense Atte": 21,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 26092,
@@ -3741,7 +3741,7 @@
    "Longitude": -73.980371,
    "Number of Records": 1,
    "E Sense Atte": 24,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 61027,
@@ -3750,7 +3750,7 @@
    "Longitude": -73.981554,
    "Number of Records": 1,
    "E Sense Atte": 27,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 76502,
@@ -3759,7 +3759,7 @@
    "Longitude": -73.978616,
    "Number of Records": 1,
    "E Sense Atte": 27,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 58826,
@@ -3768,7 +3768,7 @@
    "Longitude": -73.940763,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 26944,
@@ -3777,7 +3777,7 @@
    "Longitude": -73.979293,
    "Number of Records": 1,
    "E Sense Atte": 35,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 19730,
@@ -3786,7 +3786,7 @@
    "Longitude": -73.939236,
    "Number of Records": 1,
    "E Sense Atte": 35,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 19503,
@@ -3795,7 +3795,7 @@
    "Longitude": -73.937236,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 21530,
@@ -3804,7 +3804,7 @@
    "Longitude": -73.944965,
    "Number of Records": 1,
    "E Sense Atte": 47,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 73184,
@@ -3813,7 +3813,7 @@
    "Longitude": -74.010554,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 20754,
@@ -3822,7 +3822,7 @@
    "Longitude": -73.932507,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 6772,
@@ -3831,7 +3831,7 @@
    "Longitude": -74.001288,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 40276,
@@ -3840,7 +3840,7 @@
    "Longitude": -73.997055,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 10037,
@@ -3849,7 +3849,7 @@
    "Longitude": -73.985425,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 14596,
@@ -3858,7 +3858,7 @@
    "Longitude": -73.99161,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 87155,
@@ -3867,7 +3867,7 @@
    "Longitude": -73.998515,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 47611,
@@ -3876,7 +3876,7 @@
    "Longitude": -73.994123,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 51036,
@@ -3885,7 +3885,7 @@
    "Longitude": -73.993305,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 51062,
@@ -3894,7 +3894,7 @@
    "Longitude": -73.992189,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 59759,
@@ -3903,7 +3903,7 @@
    "Longitude": -73.956953,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 87579,
@@ -3912,7 +3912,7 @@
    "Longitude": -73.994433,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 8660,
@@ -3921,7 +3921,7 @@
    "Longitude": -73.989158,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 51741,
@@ -3930,7 +3930,7 @@
    "Longitude": -73.977837,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 41855,
@@ -3939,7 +3939,7 @@
    "Longitude": -74.002498,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 21582,
@@ -3948,7 +3948,7 @@
    "Longitude": -73.944545,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 20042,
@@ -3957,7 +3957,7 @@
    "Longitude": -73.939173,
    "Number of Records": 1,
    "E Sense Atte": 64,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 41585,
@@ -3966,7 +3966,7 @@
    "Longitude": -73.973305,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 74452,
@@ -3975,7 +3975,7 @@
    "Longitude": -74.011362,
    "Number of Records": 1,
    "E Sense Atte": 74,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 44196,
@@ -3984,7 +3984,7 @@
    "Longitude": -73.962506,
    "Number of Records": 1,
    "E Sense Atte": 75,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 39039,
@@ -3993,7 +3993,7 @@
    "Longitude": -73.938736,
    "Number of Records": 1,
    "E Sense Atte": 75,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 35244,
@@ -4002,7 +4002,7 @@
    "Longitude": -73.929311,
    "Number of Records": 1,
    "E Sense Atte": 75,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 64606,
@@ -4011,7 +4011,7 @@
    "Longitude": -73.942111,
    "Number of Records": 1,
    "E Sense Atte": 77,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 58017,
@@ -4020,7 +4020,7 @@
    "Longitude": -73.950326,
    "Number of Records": 1,
    "E Sense Atte": 80,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 51120,
@@ -4029,7 +4029,7 @@
    "Longitude": -73.990322,
    "Number of Records": 1,
    "E Sense Atte": 90,
-   "E Sense Medi": 54
+   "medi": 54
  },
  {
    "Fid": 24313,
@@ -4038,7 +4038,7 @@
    "Longitude": -74.005164,
    "Number of Records": 1,
    "E Sense Atte": 4,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 30959,
@@ -4047,7 +4047,7 @@
    "Longitude": -74.004484,
    "Number of Records": 1,
    "E Sense Atte": 10,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 75039,
@@ -4056,7 +4056,7 @@
    "Longitude": -74.009435,
    "Number of Records": 1,
    "E Sense Atte": 21,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 77172,
@@ -4065,7 +4065,7 @@
    "Longitude": -73.980232,
    "Number of Records": 1,
    "E Sense Atte": 23,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 15319,
@@ -4074,7 +4074,7 @@
    "Longitude": -74.001931,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 19594,
@@ -4083,7 +4083,7 @@
    "Longitude": -73.938286,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 6202,
@@ -4092,7 +4092,7 @@
    "Longitude": -73.999606,
    "Number of Records": 1,
    "E Sense Atte": 47,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 57061,
@@ -4101,7 +4101,7 @@
    "Longitude": -73.959558,
    "Number of Records": 1,
    "E Sense Atte": 47,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 33107,
@@ -4110,7 +4110,7 @@
    "Longitude": -73.931939,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 26081,
@@ -4119,7 +4119,7 @@
    "Longitude": -73.979973,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 53474,
@@ -4128,7 +4128,7 @@
    "Longitude": -73.944528,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 14177,
@@ -4137,7 +4137,7 @@
    "Longitude": -73.987688,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 68161,
@@ -4146,7 +4146,7 @@
    "Longitude": -74.008181,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 80912,
@@ -4155,7 +4155,7 @@
    "Longitude": -73.989047,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 82424,
@@ -4164,7 +4164,7 @@
    "Longitude": -74.007385,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 29984,
@@ -4173,7 +4173,7 @@
    "Longitude": -73.974211,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 27458,
@@ -4182,7 +4182,7 @@
    "Longitude": -73.966316,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 21389,
@@ -4191,7 +4191,7 @@
    "Longitude": -73.948565,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 68017,
@@ -4200,7 +4200,7 @@
    "Longitude": -74.006565,
    "Number of Records": 1,
    "E Sense Atte": 64,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 30279,
@@ -4209,7 +4209,7 @@
    "Longitude": -73.981222,
    "Number of Records": 1,
    "E Sense Atte": 64,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 22278,
@@ -4218,7 +4218,7 @@
    "Longitude": -73.940572,
    "Number of Records": 1,
    "E Sense Atte": 64,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 67823,
@@ -4227,7 +4227,7 @@
    "Longitude": -74.006199,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 42689,
@@ -4236,7 +4236,7 @@
    "Longitude": -73.990413,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 9485,
@@ -4245,7 +4245,7 @@
    "Longitude": -73.984159,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 61482,
@@ -4254,7 +4254,7 @@
    "Longitude": -73.974591,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 35758,
@@ -4263,7 +4263,7 @@
    "Longitude": -73.933712,
    "Number of Records": 1,
    "E Sense Atte": 78,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 53708,
@@ -4272,7 +4272,7 @@
    "Longitude": -73.947417,
    "Number of Records": 1,
    "E Sense Atte": 87,
-   "E Sense Medi": 56
+   "medi": 56
  },
  {
    "Fid": 65642,
@@ -4281,7 +4281,7 @@
    "Longitude": -73.96428,
    "Number of Records": 1,
    "E Sense Atte": 1,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 11743,
@@ -4290,7 +4290,7 @@
    "Longitude": -73.971241,
    "Number of Records": 1,
    "E Sense Atte": 11,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 68638,
@@ -4299,7 +4299,7 @@
    "Longitude": -74.003592,
    "Number of Records": 1,
    "E Sense Atte": 14,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 18393,
@@ -4308,7 +4308,7 @@
    "Longitude": -73.932559,
    "Number of Records": 1,
    "E Sense Atte": 16,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 16166,
@@ -4317,7 +4317,7 @@
    "Longitude": -73.921979,
    "Number of Records": 1,
    "E Sense Atte": 24,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 72452,
@@ -4326,7 +4326,7 @@
    "Longitude": -74.001226,
    "Number of Records": 1,
    "E Sense Atte": 26,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 76062,
@@ -4335,7 +4335,7 @@
    "Longitude": -73.994266,
    "Number of Records": 1,
    "E Sense Atte": 26,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 55344,
@@ -4344,7 +4344,7 @@
    "Longitude": -73.945485,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 46824,
@@ -4353,7 +4353,7 @@
    "Longitude": -73.996149,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 80410,
@@ -4362,7 +4362,7 @@
    "Longitude": -73.986537,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 11484,
@@ -4371,7 +4371,7 @@
    "Longitude": -73.972628,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 52203,
@@ -4380,7 +4380,7 @@
    "Longitude": -73.96995,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 58432,
@@ -4389,7 +4389,7 @@
    "Longitude": -73.941675,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 19787,
@@ -4398,7 +4398,7 @@
    "Longitude": -73.939187,
    "Number of Records": 1,
    "E Sense Atte": 35,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 78999,
@@ -4407,7 +4407,7 @@
    "Longitude": -73.98792,
    "Number of Records": 1,
    "E Sense Atte": 37,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 60091,
@@ -4416,7 +4416,7 @@
    "Longitude": -73.965992,
    "Number of Records": 1,
    "E Sense Atte": 37,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 22939,
@@ -4425,7 +4425,7 @@
    "Longitude": -73.96309,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 38683,
@@ -4434,7 +4434,7 @@
    "Longitude": -73.941244,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 37000,
@@ -4443,7 +4443,7 @@
    "Longitude": -73.936639,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 60763,
@@ -4452,7 +4452,7 @@
    "Longitude": -73.977015,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 11122,
@@ -4461,7 +4461,7 @@
    "Longitude": -73.979012,
    "Number of Records": 1,
    "E Sense Atte": 51,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 23713,
@@ -4470,7 +4470,7 @@
    "Longitude": -73.987197,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 65448,
@@ -4479,7 +4479,7 @@
    "Longitude": -73.959393,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 41161,
@@ -4488,7 +4488,7 @@
    "Longitude": -73.98532,
    "Number of Records": 1,
    "E Sense Atte": 57,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 41557,
@@ -4497,7 +4497,7 @@
    "Longitude": -73.974529,
    "Number of Records": 1,
    "E Sense Atte": 57,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 23226,
@@ -4506,7 +4506,7 @@
    "Longitude": -73.98167,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 55451,
@@ -4515,7 +4515,7 @@
    "Longitude": -73.943988,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 68999,
@@ -4524,7 +4524,7 @@
    "Longitude": -74.002693,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 9525,
@@ -4533,7 +4533,7 @@
    "Longitude": -73.984971,
    "Number of Records": 1,
    "E Sense Atte": 64,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 74837,
@@ -4542,7 +4542,7 @@
    "Longitude": -74.007236,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 84067,
@@ -4551,7 +4551,7 @@
    "Longitude": -73.991048,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 49723,
@@ -4560,7 +4560,7 @@
    "Longitude": -73.997137,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 55574,
@@ -4569,7 +4569,7 @@
    "Longitude": -73.941458,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 28147,
@@ -4578,7 +4578,7 @@
    "Longitude": -73.939036,
    "Number of Records": 1,
    "E Sense Atte": 70,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 53153,
@@ -4587,7 +4587,7 @@
    "Longitude": -73.938344,
    "Number of Records": 1,
    "E Sense Atte": 83,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 24948,
@@ -4596,7 +4596,7 @@
    "Longitude": -73.996895,
    "Number of Records": 1,
    "E Sense Atte": 94,
-   "E Sense Medi": 57
+   "medi": 57
  },
  {
    "Fid": 65531,
@@ -4605,7 +4605,7 @@
    "Longitude": -73.962158,
    "Number of Records": 1,
    "E Sense Atte": 21,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 25017,
@@ -4614,7 +4614,7 @@
    "Longitude": -73.995506,
    "Number of Records": 1,
    "E Sense Atte": 23,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 42895,
@@ -4623,7 +4623,7 @@
    "Longitude": -73.988557,
    "Number of Records": 1,
    "E Sense Atte": 27,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 29551,
@@ -4632,7 +4632,7 @@
    "Longitude": -73.967066,
    "Number of Records": 1,
    "E Sense Atte": 35,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 37182,
@@ -4641,7 +4641,7 @@
    "Longitude": -73.934433,
    "Number of Records": 1,
    "E Sense Atte": 38,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 14703,
@@ -4650,7 +4650,7 @@
    "Longitude": -73.990962,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 50375,
@@ -4659,7 +4659,7 @@
    "Longitude": -73.990007,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 87726,
@@ -4668,7 +4668,7 @@
    "Longitude": -73.992696,
    "Number of Records": 1,
    "E Sense Atte": 41,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 76100,
@@ -4677,7 +4677,7 @@
    "Longitude": -73.992705,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 27145,
@@ -4686,7 +4686,7 @@
    "Longitude": -73.974712,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 35203,
@@ -4695,7 +4695,7 @@
    "Longitude": -73.929328,
    "Number of Records": 1,
    "E Sense Atte": 47,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 43429,
@@ -4704,7 +4704,7 @@
    "Longitude": -73.985194,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 9581,
@@ -4713,7 +4713,7 @@
    "Longitude": -73.98615,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 7776,
@@ -4722,7 +4722,7 @@
    "Longitude": -73.998656,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 62894,
@@ -4731,7 +4731,7 @@
    "Longitude": -73.988612,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 53394,
@@ -4740,7 +4740,7 @@
    "Longitude": -73.942468,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 61757,
@@ -4749,7 +4749,7 @@
    "Longitude": -73.977335,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 41213,
@@ -4758,7 +4758,7 @@
    "Longitude": -73.981837,
    "Number of Records": 1,
    "E Sense Atte": 57,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 45475,
@@ -4767,7 +4767,7 @@
    "Longitude": -73.961803,
    "Number of Records": 1,
    "E Sense Atte": 57,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 82507,
@@ -4776,7 +4776,7 @@
    "Longitude": -74.008979,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 61032,
@@ -4785,7 +4785,7 @@
    "Longitude": -73.981734,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 53814,
@@ -4794,7 +4794,7 @@
    "Longitude": -73.949784,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 84944,
@@ -4803,7 +4803,7 @@
    "Longitude": -73.992457,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 67980,
@@ -4812,7 +4812,7 @@
    "Longitude": -74.008035,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 46710,
@@ -4821,7 +4821,7 @@
    "Longitude": -73.991573,
    "Number of Records": 1,
    "E Sense Atte": 69,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 39049,
@@ -4830,7 +4830,7 @@
    "Longitude": -73.938845,
    "Number of Records": 1,
    "E Sense Atte": 70,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 18232,
@@ -4839,7 +4839,7 @@
    "Longitude": -73.931237,
    "Number of Records": 1,
    "E Sense Atte": 70,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 38185,
@@ -4848,7 +4848,7 @@
    "Longitude": -73.956054,
    "Number of Records": 1,
    "E Sense Atte": 90,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 71703,
@@ -4857,7 +4857,7 @@
    "Longitude": -73.990523,
    "Number of Records": 1,
    "E Sense Atte": 94,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 44287,
@@ -4866,7 +4866,7 @@
    "Longitude": -73.935067,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 60
+   "medi": 60
  },
  {
    "Fid": 19296,
@@ -4875,7 +4875,7 @@
    "Longitude": -73.93445,
    "Number of Records": 1,
    "E Sense Atte": 11,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 46688,
@@ -4884,7 +4884,7 @@
    "Longitude": -73.99137,
    "Number of Records": 1,
    "E Sense Atte": 14,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 43152,
@@ -4893,7 +4893,7 @@
    "Longitude": -73.98699,
    "Number of Records": 1,
    "E Sense Atte": 21,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 26957,
@@ -4902,7 +4902,7 @@
    "Longitude": -73.978955,
    "Number of Records": 1,
    "E Sense Atte": 24,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 79162,
@@ -4911,7 +4911,7 @@
    "Longitude": -73.98792,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 46479,
@@ -4920,7 +4920,7 @@
    "Longitude": -73.984954,
    "Number of Records": 1,
    "E Sense Atte": 35,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 64873,
@@ -4929,7 +4929,7 @@
    "Longitude": -73.947714,
    "Number of Records": 1,
    "E Sense Atte": 35,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 46398,
@@ -4938,7 +4938,7 @@
    "Longitude": -73.981681,
    "Number of Records": 1,
    "E Sense Atte": 38,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 13026,
@@ -4947,7 +4947,7 @@
    "Longitude": -73.979686,
    "Number of Records": 1,
    "E Sense Atte": 38,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 36442,
@@ -4956,7 +4956,7 @@
    "Longitude": -73.933093,
    "Number of Records": 1,
    "E Sense Atte": 38,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 26672,
@@ -4965,7 +4965,7 @@
    "Longitude": -73.985299,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 22894,
@@ -4974,7 +4974,7 @@
    "Longitude": -73.961057,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 74036,
@@ -4983,7 +4983,7 @@
    "Longitude": -74.008048,
    "Number of Records": 1,
    "E Sense Atte": 47,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 31516,
@@ -4992,7 +4992,7 @@
    "Longitude": -73.980917,
    "Number of Records": 1,
    "E Sense Atte": 47,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 61994,
@@ -5001,7 +5001,7 @@
    "Longitude": -73.979018,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 24388,
@@ -5010,7 +5010,7 @@
    "Longitude": -74.005121,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 77429,
@@ -5019,7 +5019,7 @@
    "Longitude": -73.978798,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 55439,
@@ -5028,7 +5028,7 @@
    "Longitude": -73.944079,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 87134,
@@ -5037,7 +5037,7 @@
    "Longitude": -73.998515,
    "Number of Records": 1,
    "E Sense Atte": 51,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 45045,
@@ -5046,7 +5046,7 @@
    "Longitude": -73.952557,
    "Number of Records": 1,
    "E Sense Atte": 51,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 58475,
@@ -5055,7 +5055,7 @@
    "Longitude": -73.941267,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 18056,
@@ -5064,7 +5064,7 @@
    "Longitude": -73.931028,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 25272,
@@ -5073,7 +5073,7 @@
    "Longitude": -73.990603,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 53253,
@@ -5082,7 +5082,7 @@
    "Longitude": -73.940056,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 19670,
@@ -5091,7 +5091,7 @@
    "Longitude": -73.939017,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 65771,
@@ -5100,7 +5100,7 @@
    "Longitude": -73.965826,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 24804,
@@ -5109,7 +5109,7 @@
    "Longitude": -74.000021,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 42159,
@@ -5118,7 +5118,7 @@
    "Longitude": -73.99787,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 22831,
@@ -5127,7 +5127,7 @@
    "Longitude": -73.958967,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 86479,
@@ -5136,7 +5136,7 @@
    "Longitude": -73.994801,
    "Number of Records": 1,
    "E Sense Atte": 64,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 15581,
@@ -5145,7 +5145,7 @@
    "Longitude": -74.007812,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 46704,
@@ -5154,7 +5154,7 @@
    "Longitude": -73.991613,
    "Number of Records": 1,
    "E Sense Atte": 69,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 55567,
@@ -5163,7 +5163,7 @@
    "Longitude": -73.941594,
    "Number of Records": 1,
    "E Sense Atte": 70,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 86225,
@@ -5172,7 +5172,7 @@
    "Longitude": -73.994409,
    "Number of Records": 1,
    "E Sense Atte": 75,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 8138,
@@ -5181,7 +5181,7 @@
    "Longitude": -73.983957,
    "Number of Records": 1,
    "E Sense Atte": 93,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 30232,
@@ -5190,7 +5190,7 @@
    "Longitude": -73.98051,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 61
+   "medi": 61
  },
  {
    "Fid": 65296,
@@ -5199,7 +5199,7 @@
    "Longitude": -73.956072,
    "Number of Records": 1,
    "E Sense Atte": 11,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 46260,
@@ -5208,7 +5208,7 @@
    "Longitude": -73.978904,
    "Number of Records": 1,
    "E Sense Atte": 17,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 30328,
@@ -5217,7 +5217,7 @@
    "Longitude": -73.982994,
    "Number of Records": 1,
    "E Sense Atte": 26,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 19124,
@@ -5226,7 +5226,7 @@
    "Longitude": -73.93074,
    "Number of Records": 1,
    "E Sense Atte": 26,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 44752,
@@ -5235,7 +5235,7 @@
    "Longitude": -73.945373,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 59142,
@@ -5244,7 +5244,7 @@
    "Longitude": -73.946863,
    "Number of Records": 1,
    "E Sense Atte": 35,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 51591,
@@ -5253,7 +5253,7 @@
    "Longitude": -73.980711,
    "Number of Records": 1,
    "E Sense Atte": 37,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 78563,
@@ -5262,7 +5262,7 @@
    "Longitude": -73.99392,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 26996,
@@ -5271,7 +5271,7 @@
    "Longitude": -73.978008,
    "Number of Records": 1,
    "E Sense Atte": 41,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 35936,
@@ -5280,7 +5280,7 @@
    "Longitude": -73.93917,
    "Number of Records": 1,
    "E Sense Atte": 41,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 22986,
@@ -5289,7 +5289,7 @@
    "Longitude": -73.96479,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 74067,
@@ -5298,7 +5298,7 @@
    "Longitude": -74.008584,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 30516,
@@ -5307,7 +5307,7 @@
    "Longitude": -73.987499,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 54819,
@@ -5316,7 +5316,7 @@
    "Longitude": -73.987414,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 10982,
@@ -5325,7 +5325,7 @@
    "Longitude": -73.982738,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 46629,
@@ -5334,7 +5334,7 @@
    "Longitude": -73.989411,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 36136,
@@ -5343,7 +5343,7 @@
    "Longitude": -73.92942,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 41451,
@@ -5352,7 +5352,7 @@
    "Longitude": -73.982298,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 67771,
@@ -5361,7 +5361,7 @@
    "Longitude": -74.005469,
    "Number of Records": 1,
    "E Sense Atte": 57,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 30503,
@@ -5370,7 +5370,7 @@
    "Longitude": -73.986735,
    "Number of Records": 1,
    "E Sense Atte": 57,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 34327,
@@ -5379,7 +5379,7 @@
    "Longitude": -73.924944,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 696,
@@ -5388,7 +5388,7 @@
    "Longitude": -74.006869,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 30513,
@@ -5397,7 +5397,7 @@
    "Longitude": -73.987351,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 80971,
@@ -5406,7 +5406,7 @@
    "Longitude": -73.987935,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 18156,
@@ -5415,7 +5415,7 @@
    "Longitude": -73.931147,
    "Number of Records": 1,
    "E Sense Atte": 69,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 35756,
@@ -5424,7 +5424,7 @@
    "Longitude": -73.933551,
    "Number of Records": 1,
    "E Sense Atte": 77,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 35418,
@@ -5433,7 +5433,7 @@
    "Longitude": -73.929201,
    "Number of Records": 1,
    "E Sense Atte": 77,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 56807,
@@ -5442,7 +5442,7 @@
    "Longitude": -73.953579,
    "Number of Records": 1,
    "E Sense Atte": 83,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 81991,
@@ -5451,7 +5451,7 @@
    "Longitude": -74.004712,
    "Number of Records": 1,
    "E Sense Atte": 87,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 84086,
@@ -5460,7 +5460,7 @@
    "Longitude": -73.990946,
    "Number of Records": 1,
    "E Sense Atte": 90,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 39265,
@@ -5469,7 +5469,7 @@
    "Longitude": -73.948253,
    "Number of Records": 1,
    "E Sense Atte": 94,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 55945,
@@ -5478,7 +5478,7 @@
    "Longitude": -73.937114,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 63
+   "medi": 63
  },
  {
    "Fid": 60751,
@@ -5487,7 +5487,7 @@
    "Longitude": -73.976866,
    "Number of Records": 1,
    "E Sense Atte": 20,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 5134,
@@ -5496,7 +5496,7 @@
    "Longitude": -74.00251,
    "Number of Records": 1,
    "E Sense Atte": 23,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 27487,
@@ -5505,7 +5505,7 @@
    "Longitude": -73.965537,
    "Number of Records": 1,
    "E Sense Atte": 29,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 26453,
@@ -5514,7 +5514,7 @@
    "Longitude": -73.985419,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 75905,
@@ -5523,7 +5523,7 @@
    "Longitude": -73.994322,
    "Number of Records": 1,
    "E Sense Atte": 35,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 76403,
@@ -5532,7 +5532,7 @@
    "Longitude": -73.980824,
    "Number of Records": 1,
    "E Sense Atte": 37,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 20286,
@@ -5541,7 +5541,7 @@
    "Longitude": -73.939267,
    "Number of Records": 1,
    "E Sense Atte": 37,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 74663,
@@ -5550,7 +5550,7 @@
    "Longitude": -74.008001,
    "Number of Records": 1,
    "E Sense Atte": 38,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 7549,
@@ -5559,7 +5559,7 @@
    "Longitude": -74.000259,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 29580,
@@ -5568,7 +5568,7 @@
    "Longitude": -73.967907,
    "Number of Records": 1,
    "E Sense Atte": 41,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 79761,
@@ -5577,7 +5577,7 @@
    "Longitude": -73.977285,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 11993,
@@ -5586,7 +5586,7 @@
    "Longitude": -73.969912,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 81970,
@@ -5595,7 +5595,7 @@
    "Longitude": -74.004667,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 51170,
@@ -5604,7 +5604,7 @@
    "Longitude": -73.988139,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 47236,
@@ -5613,7 +5613,7 @@
    "Longitude": -73.99011,
    "Number of Records": 1,
    "E Sense Atte": 47,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 26646,
@@ -5622,7 +5622,7 @@
    "Longitude": -73.98584,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 84079,
@@ -5631,7 +5631,7 @@
    "Longitude": -73.990946,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 34285,
@@ -5640,7 +5640,7 @@
    "Longitude": -73.925317,
    "Number of Records": 1,
    "E Sense Atte": 51,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 45024,
@@ -5649,7 +5649,7 @@
    "Longitude": -73.952449,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 50942,
@@ -5658,7 +5658,7 @@
    "Longitude": -73.993754,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 9963,
@@ -5667,7 +5667,7 @@
    "Longitude": -73.986203,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 81860,
@@ -5676,7 +5676,7 @@
    "Longitude": -74.006276,
    "Number of Records": 1,
    "E Sense Atte": 69,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 25476,
@@ -5685,7 +5685,7 @@
    "Longitude": -73.984027,
    "Number of Records": 1,
    "E Sense Atte": 69,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 64587,
@@ -5694,7 +5694,7 @@
    "Longitude": -73.941624,
    "Number of Records": 1,
    "E Sense Atte": 69,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 28777,
@@ -5703,7 +5703,7 @@
    "Longitude": -73.947379,
    "Number of Records": 1,
    "E Sense Atte": 74,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 68004,
@@ -5712,7 +5712,7 @@
    "Longitude": -74.007013,
    "Number of Records": 1,
    "E Sense Atte": 75,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 21006,
@@ -5721,7 +5721,7 @@
    "Longitude": -73.929386,
    "Number of Records": 1,
    "E Sense Atte": 78,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 51351,
@@ -5730,7 +5730,7 @@
    "Longitude": -73.985169,
    "Number of Records": 1,
    "E Sense Atte": 81,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 86315,
@@ -5739,7 +5739,7 @@
    "Longitude": -73.993321,
    "Number of Records": 1,
    "E Sense Atte": 84,
-   "E Sense Medi": 64
+   "medi": 64
  },
  {
    "Fid": 13752,
@@ -5748,7 +5748,7 @@
    "Longitude": -73.981911,
    "Number of Records": 1,
    "E Sense Atte": 10,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 13948,
@@ -5757,7 +5757,7 @@
    "Longitude": -73.984435,
    "Number of Records": 1,
    "E Sense Atte": 11,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 26310,
@@ -5766,7 +5766,7 @@
    "Longitude": -73.985335,
    "Number of Records": 1,
    "E Sense Atte": 23,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 23147,
@@ -5775,7 +5775,7 @@
    "Longitude": -73.974587,
    "Number of Records": 1,
    "E Sense Atte": 26,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 22632,
@@ -5784,7 +5784,7 @@
    "Longitude": -73.953309,
    "Number of Records": 1,
    "E Sense Atte": 35,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 58141,
@@ -5793,7 +5793,7 @@
    "Longitude": -73.947594,
    "Number of Records": 1,
    "E Sense Atte": 38,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 19682,
@@ -5802,7 +5802,7 @@
    "Longitude": -73.939086,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 86847,
@@ -5811,7 +5811,7 @@
    "Longitude": -73.998941,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 86844,
@@ -5820,7 +5820,7 @@
    "Longitude": -73.99889,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 69167,
@@ -5829,7 +5829,7 @@
    "Longitude": -73.997327,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 14485,
@@ -5838,7 +5838,7 @@
    "Longitude": -73.989889,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 72336,
@@ -5847,7 +5847,7 @@
    "Longitude": -73.999348,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 19173,
@@ -5856,7 +5856,7 @@
    "Longitude": -73.931967,
    "Number of Records": 1,
    "E Sense Atte": 51,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 11202,
@@ -5865,7 +5865,7 @@
    "Longitude": -73.977855,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 14466,
@@ -5874,7 +5874,7 @@
    "Longitude": -73.989739,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 45816,
@@ -5883,7 +5883,7 @@
    "Longitude": -73.968553,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 24963,
@@ -5892,7 +5892,7 @@
    "Longitude": -73.99641,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 9699,
@@ -5901,7 +5901,7 @@
    "Longitude": -73.988441,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 41195,
@@ -5910,7 +5910,7 @@
    "Longitude": -73.983008,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 11255,
@@ -5919,7 +5919,7 @@
    "Longitude": -73.976362,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 77864,
@@ -5928,7 +5928,7 @@
    "Longitude": -73.985165,
    "Number of Records": 1,
    "E Sense Atte": 69,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 24247,
@@ -5937,7 +5937,7 @@
    "Longitude": -74.005306,
    "Number of Records": 1,
    "E Sense Atte": 78,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 53143,
@@ -5946,7 +5946,7 @@
    "Longitude": -73.938022,
    "Number of Records": 1,
    "E Sense Atte": 78,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 41591,
@@ -5955,7 +5955,7 @@
    "Longitude": -73.972968,
    "Number of Records": 1,
    "E Sense Atte": 81,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 15741,
@@ -5964,7 +5964,7 @@
    "Longitude": -74.013481,
    "Number of Records": 1,
    "E Sense Atte": 91,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 70076,
@@ -5973,7 +5973,7 @@
    "Longitude": -74.006918,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 57371,
@@ -5982,7 +5982,7 @@
    "Longitude": -73.963025,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 66
+   "medi": 66
  },
  {
    "Fid": 75518,
@@ -5991,7 +5991,7 @@
    "Longitude": -74.005345,
    "Number of Records": 1,
    "E Sense Atte": 8,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 44750,
@@ -6000,7 +6000,7 @@
    "Longitude": -73.945361,
    "Number of Records": 1,
    "E Sense Atte": 17,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 60123,
@@ -6009,7 +6009,7 @@
    "Longitude": -73.9669,
    "Number of Records": 1,
    "E Sense Atte": 21,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 10071,
@@ -6018,7 +6018,7 @@
    "Longitude": -73.985863,
    "Number of Records": 1,
    "E Sense Atte": 24,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 29433,
@@ -6027,7 +6027,7 @@
    "Longitude": -73.964048,
    "Number of Records": 1,
    "E Sense Atte": 27,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 72872,
@@ -6036,7 +6036,7 @@
    "Longitude": -74.012506,
    "Number of Records": 1,
    "E Sense Atte": 29,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 75652,
@@ -6045,7 +6045,7 @@
    "Longitude": -74.0023,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 20280,
@@ -6054,7 +6054,7 @@
    "Longitude": -73.939269,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 20288,
@@ -6063,7 +6063,7 @@
    "Longitude": -73.939267,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 30153,
@@ -6072,7 +6072,7 @@
    "Longitude": -73.977507,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 36265,
@@ -6081,7 +6081,7 @@
    "Longitude": -73.930854,
    "Number of Records": 1,
    "E Sense Atte": 51,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 74820,
@@ -6090,7 +6090,7 @@
    "Longitude": -74.006345,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 17048,
@@ -6099,7 +6099,7 @@
    "Longitude": -73.922924,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 82672,
@@ -6108,7 +6108,7 @@
    "Longitude": -74.010872,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 61770,
@@ -6117,7 +6117,7 @@
    "Longitude": -73.977405,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 69000,
@@ -6126,7 +6126,7 @@
    "Longitude": -74.00267,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 51822,
@@ -6135,7 +6135,7 @@
    "Longitude": -73.97685,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 3941,
@@ -6144,7 +6144,7 @@
    "Longitude": -73.993725,
    "Number of Records": 1,
    "E Sense Atte": 64,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 21218,
@@ -6153,7 +6153,7 @@
    "Longitude": -73.925008,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 4913,
@@ -6162,7 +6162,7 @@
    "Longitude": -74.001001,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 28233,
@@ -6171,7 +6171,7 @@
    "Longitude": -73.935887,
    "Number of Records": 1,
    "E Sense Atte": 70,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 4911,
@@ -6180,7 +6180,7 @@
    "Longitude": -74.001001,
    "Number of Records": 1,
    "E Sense Atte": 74,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 84273,
@@ -6189,7 +6189,7 @@
    "Longitude": -73.989918,
    "Number of Records": 1,
    "E Sense Atte": 80,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 65171,
@@ -6198,7 +6198,7 @@
    "Longitude": -73.953585,
    "Number of Records": 1,
    "E Sense Atte": 81,
-   "E Sense Medi": 67
+   "medi": 67
  },
  {
    "Fid": 12429,
@@ -6207,7 +6207,7 @@
    "Longitude": -73.947605,
    "Number of Records": 1,
    "E Sense Atte": 20,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 58120,
@@ -6216,7 +6216,7 @@
    "Longitude": -73.947882,
    "Number of Records": 1,
    "E Sense Atte": 23,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 10222,
@@ -6225,7 +6225,7 @@
    "Longitude": -73.989411,
    "Number of Records": 1,
    "E Sense Atte": 27,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 28419,
@@ -6234,7 +6234,7 @@
    "Longitude": -73.94232,
    "Number of Records": 1,
    "E Sense Atte": 29,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 76633,
@@ -6243,7 +6243,7 @@
    "Longitude": -73.974543,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 65067,
@@ -6252,7 +6252,7 @@
    "Longitude": -73.95104,
    "Number of Records": 1,
    "E Sense Atte": 47,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 65426,
@@ -6261,7 +6261,7 @@
    "Longitude": -73.959037,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 38323,
@@ -6270,7 +6270,7 @@
    "Longitude": -73.952941,
    "Number of Records": 1,
    "E Sense Atte": 51,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 27617,
@@ -6279,7 +6279,7 @@
    "Longitude": -73.960283,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 53200,
@@ -6288,7 +6288,7 @@
    "Longitude": -73.938978,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 15666,
@@ -6297,7 +6297,7 @@
    "Longitude": -74.01046,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 47361,
@@ -6306,7 +6306,7 @@
    "Longitude": -73.99353,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 36319,
@@ -6315,7 +6315,7 @@
    "Longitude": -73.931297,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 19880,
@@ -6324,7 +6324,7 @@
    "Longitude": -73.939095,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 46770,
@@ -6333,7 +6333,7 @@
    "Longitude": -73.99407,
    "Number of Records": 1,
    "E Sense Atte": 64,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 17465,
@@ -6342,7 +6342,7 @@
    "Longitude": -73.92646,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 19970,
@@ -6351,7 +6351,7 @@
    "Longitude": -73.939073,
    "Number of Records": 1,
    "E Sense Atte": 74,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 81847,
@@ -6360,7 +6360,7 @@
    "Longitude": -74.006002,
    "Number of Records": 1,
    "E Sense Atte": 75,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 68022,
@@ -6369,7 +6369,7 @@
    "Longitude": -74.006446,
    "Number of Records": 1,
    "E Sense Atte": 77,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 53689,
@@ -6378,7 +6378,7 @@
    "Longitude": -73.946882,
    "Number of Records": 1,
    "E Sense Atte": 77,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 41765,
@@ -6387,7 +6387,7 @@
    "Longitude": -73.954537,
    "Number of Records": 1,
    "E Sense Atte": 78,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 53679,
@@ -6396,7 +6396,7 @@
    "Longitude": -73.946487,
    "Number of Records": 1,
    "E Sense Atte": 84,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 60191,
@@ -6405,7 +6405,7 @@
    "Longitude": -73.96842,
    "Number of Records": 1,
    "E Sense Atte": 87,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 70844,
@@ -6414,7 +6414,7 @@
    "Longitude": -74.010718,
    "Number of Records": 1,
    "E Sense Atte": 93,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 70095,
@@ -6423,7 +6423,7 @@
    "Longitude": -74.007731,
    "Number of Records": 1,
    "E Sense Atte": 94,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 70088,
@@ -6432,7 +6432,7 @@
    "Longitude": -74.007401,
    "Number of Records": 1,
    "E Sense Atte": 94,
-   "E Sense Medi": 69
+   "medi": 69
  },
  {
    "Fid": 68608,
@@ -6441,7 +6441,7 @@
    "Longitude": -74.004213,
    "Number of Records": 1,
    "E Sense Atte": 1,
-   "E Sense Medi": 70
+   "medi": 70
  },
  {
    "Fid": 75278,
@@ -6450,7 +6450,7 @@
    "Longitude": -74.007117,
    "Number of Records": 1,
    "E Sense Atte": 23,
-   "E Sense Medi": 70
+   "medi": 70
  },
  {
    "Fid": 18000,
@@ -6459,7 +6459,7 @@
    "Longitude": -73.930985,
    "Number of Records": 1,
    "E Sense Atte": 24,
-   "E Sense Medi": 70
+   "medi": 70
  },
  {
    "Fid": 13820,
@@ -6468,7 +6468,7 @@
    "Longitude": -73.982468,
    "Number of Records": 1,
    "E Sense Atte": 27,
-   "E Sense Medi": 70
+   "medi": 70
  },
  {
    "Fid": 10339,
@@ -6477,7 +6477,7 @@
    "Longitude": -73.983827,
    "Number of Records": 1,
    "E Sense Atte": 29,
-   "E Sense Medi": 70
+   "medi": 70
  },
  {
    "Fid": 54058,
@@ -6486,7 +6486,7 @@
    "Longitude": -73.955966,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 70
+   "medi": 70
  },
  {
    "Fid": 68629,
@@ -6495,7 +6495,7 @@
    "Longitude": -74.003721,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 70
+   "medi": 70
  },
  {
    "Fid": 22489,
@@ -6504,7 +6504,7 @@
    "Longitude": -73.947747,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 70
+   "medi": 70
  },
  {
    "Fid": 74557,
@@ -6513,7 +6513,7 @@
    "Longitude": -74.010155,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 70
+   "medi": 70
  },
  {
    "Fid": 36633,
@@ -6522,7 +6522,7 @@
    "Longitude": -73.935077,
    "Number of Records": 1,
    "E Sense Atte": 60,
-   "E Sense Medi": 70
+   "medi": 70
  },
  {
    "Fid": 35688,
@@ -6531,7 +6531,7 @@
    "Longitude": -73.932021,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 70
+   "medi": 70
  },
  {
    "Fid": 73001,
@@ -6540,7 +6540,7 @@
    "Longitude": -74.013265,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 70
+   "medi": 70
  },
  {
    "Fid": 4915,
@@ -6549,7 +6549,7 @@
    "Longitude": -74.001001,
    "Number of Records": 1,
    "E Sense Atte": 74,
-   "E Sense Medi": 70
+   "medi": 70
  },
  {
    "Fid": 40223,
@@ -6558,7 +6558,7 @@
    "Longitude": -73.998725,
    "Number of Records": 1,
    "E Sense Atte": 16,
-   "E Sense Medi": 74
+   "medi": 74
  },
  {
    "Fid": 46390,
@@ -6567,7 +6567,7 @@
    "Longitude": -73.98169,
    "Number of Records": 1,
    "E Sense Atte": 23,
-   "E Sense Medi": 74
+   "medi": 74
  },
  {
    "Fid": 45855,
@@ -6576,7 +6576,7 @@
    "Longitude": -73.969753,
    "Number of Records": 1,
    "E Sense Atte": 27,
-   "E Sense Medi": 74
+   "medi": 74
  },
  {
    "Fid": 72709,
@@ -6585,7 +6585,7 @@
    "Longitude": -74.007744,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 74
+   "medi": 74
  },
  {
    "Fid": 20048,
@@ -6594,7 +6594,7 @@
    "Longitude": -73.939169,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 74
+   "medi": 74
  },
  {
    "Fid": 54813,
@@ -6603,7 +6603,7 @@
    "Longitude": -73.987289,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 74
+   "medi": 74
  },
  {
    "Fid": 7962,
@@ -6612,7 +6612,7 @@
    "Longitude": -73.982373,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 74
+   "medi": 74
  },
  {
    "Fid": 29907,
@@ -6621,7 +6621,7 @@
    "Longitude": -73.971807,
    "Number of Records": 1,
    "E Sense Atte": 41,
-   "E Sense Medi": 74
+   "medi": 74
  },
  {
    "Fid": 59811,
@@ -6630,7 +6630,7 @@
    "Longitude": -73.95791,
    "Number of Records": 1,
    "E Sense Atte": 41,
-   "E Sense Medi": 74
+   "medi": 74
  },
  {
    "Fid": 13890,
@@ -6639,7 +6639,7 @@
    "Longitude": -73.983478,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 74
+   "medi": 74
  },
  {
    "Fid": 44727,
@@ -6648,7 +6648,7 @@
    "Longitude": -73.944587,
    "Number of Records": 1,
    "E Sense Atte": 51,
-   "E Sense Medi": 74
+   "medi": 74
  },
  {
    "Fid": 2536,
@@ -6657,7 +6657,7 @@
    "Longitude": -74.007853,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 74
+   "medi": 74
  },
  {
    "Fid": 23793,
@@ -6666,7 +6666,7 @@
    "Longitude": -73.98865,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 74
+   "medi": 74
  },
  {
    "Fid": 28826,
@@ -6675,7 +6675,7 @@
    "Longitude": -73.949118,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 74
+   "medi": 74
  },
  {
    "Fid": 84963,
@@ -6684,7 +6684,7 @@
    "Longitude": -73.992581,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 74
+   "medi": 74
  },
  {
    "Fid": 12909,
@@ -6693,7 +6693,7 @@
    "Longitude": -73.9764,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 74
+   "medi": 74
  },
  {
    "Fid": 18330,
@@ -6702,7 +6702,7 @@
    "Longitude": -73.932241,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 74
+   "medi": 74
  },
  {
    "Fid": 11927,
@@ -6711,7 +6711,7 @@
    "Longitude": -73.970925,
    "Number of Records": 1,
    "E Sense Atte": 78,
-   "E Sense Medi": 74
+   "medi": 74
  },
  {
    "Fid": 27790,
@@ -6720,7 +6720,7 @@
    "Longitude": -73.952704,
    "Number of Records": 1,
    "E Sense Atte": 78,
-   "E Sense Medi": 74
+   "medi": 74
  },
  {
    "Fid": 10919,
@@ -6729,7 +6729,7 @@
    "Longitude": -73.984501,
    "Number of Records": 1,
    "E Sense Atte": 87,
-   "E Sense Medi": 74
+   "medi": 74
  },
  {
    "Fid": 85918,
@@ -6738,7 +6738,7 @@
    "Longitude": -73.996944,
    "Number of Records": 1,
    "E Sense Atte": 96,
-   "E Sense Medi": 74
+   "medi": 74
  },
  {
    "Fid": 25056,
@@ -6747,7 +6747,7 @@
    "Longitude": -73.994763,
    "Number of Records": 1,
    "E Sense Atte": 20,
-   "E Sense Medi": 75
+   "medi": 75
  },
  {
    "Fid": 42851,
@@ -6756,7 +6756,7 @@
    "Longitude": -73.989146,
    "Number of Records": 1,
    "E Sense Atte": 21,
-   "E Sense Medi": 75
+   "medi": 75
  },
  {
    "Fid": 13952,
@@ -6765,7 +6765,7 @@
    "Longitude": -73.984621,
    "Number of Records": 1,
    "E Sense Atte": 24,
-   "E Sense Medi": 75
+   "medi": 75
  },
  {
    "Fid": 61359,
@@ -6774,7 +6774,7 @@
    "Longitude": -73.988568,
    "Number of Records": 1,
    "E Sense Atte": 35,
-   "E Sense Medi": 75
+   "medi": 75
  },
  {
    "Fid": 11030,
@@ -6783,7 +6783,7 @@
    "Longitude": -73.982578,
    "Number of Records": 1,
    "E Sense Atte": 35,
-   "E Sense Medi": 75
+   "medi": 75
  },
  {
    "Fid": 61213,
@@ -6792,7 +6792,7 @@
    "Longitude": -73.986539,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 75
+   "medi": 75
  },
  {
    "Fid": 45801,
@@ -6801,7 +6801,7 @@
    "Longitude": -73.968024,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 75
+   "medi": 75
  },
  {
    "Fid": 20283,
@@ -6810,7 +6810,7 @@
    "Longitude": -73.939267,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 75
+   "medi": 75
  },
  {
    "Fid": 36400,
@@ -6819,7 +6819,7 @@
    "Longitude": -73.932676,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 75
+   "medi": 75
  },
  {
    "Fid": 53521,
@@ -6828,7 +6828,7 @@
    "Longitude": -73.945866,
    "Number of Records": 1,
    "E Sense Atte": 51,
-   "E Sense Medi": 75
+   "medi": 75
  },
  {
    "Fid": 63755,
@@ -6837,7 +6837,7 @@
    "Longitude": -73.990362,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 75
+   "medi": 75
  },
  {
    "Fid": 76490,
@@ -6846,7 +6846,7 @@
    "Longitude": -73.978837,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 75
+   "medi": 75
  },
  {
    "Fid": 51865,
@@ -6855,7 +6855,7 @@
    "Longitude": -73.976517,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 75
+   "medi": 75
  },
  {
    "Fid": 7979,
@@ -6864,7 +6864,7 @@
    "Longitude": -73.982417,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 75
+   "medi": 75
  },
  {
    "Fid": 12965,
@@ -6873,7 +6873,7 @@
    "Longitude": -73.978087,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 75
+   "medi": 75
  },
  {
    "Fid": 70551,
@@ -6882,7 +6882,7 @@
    "Longitude": -74.010137,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 75
+   "medi": 75
  },
  {
    "Fid": 75414,
@@ -6891,7 +6891,7 @@
    "Longitude": -74.005294,
    "Number of Records": 1,
    "E Sense Atte": 75,
-   "E Sense Medi": 75
+   "medi": 75
  },
  {
    "Fid": 54836,
@@ -6900,7 +6900,7 @@
    "Longitude": -73.98844,
    "Number of Records": 1,
    "E Sense Atte": 27,
-   "E Sense Medi": 77
+   "medi": 77
  },
  {
    "Fid": 21969,
@@ -6909,7 +6909,7 @@
    "Longitude": -73.933107,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 77
+   "medi": 77
  },
  {
    "Fid": 29567,
@@ -6918,7 +6918,7 @@
    "Longitude": -73.967564,
    "Number of Records": 1,
    "E Sense Atte": 38,
-   "E Sense Medi": 77
+   "medi": 77
  },
  {
    "Fid": 14473,
@@ -6927,7 +6927,7 @@
    "Longitude": -73.989854,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 77
+   "medi": 77
  },
  {
    "Fid": 67836,
@@ -6936,7 +6936,7 @@
    "Longitude": -74.00738,
    "Number of Records": 1,
    "E Sense Atte": 57,
-   "E Sense Medi": 77
+   "medi": 77
  },
  {
    "Fid": 20961,
@@ -6945,7 +6945,7 @@
    "Longitude": -73.930325,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 77
+   "medi": 77
  },
  {
    "Fid": 51633,
@@ -6954,7 +6954,7 @@
    "Longitude": -73.979455,
    "Number of Records": 1,
    "E Sense Atte": 70,
-   "E Sense Medi": 77
+   "medi": 77
  },
  {
    "Fid": 68179,
@@ -6963,7 +6963,7 @@
    "Longitude": -74.008049,
    "Number of Records": 1,
    "E Sense Atte": 74,
-   "E Sense Medi": 77
+   "medi": 77
  },
  {
    "Fid": 10790,
@@ -6972,7 +6972,7 @@
    "Longitude": -73.987275,
    "Number of Records": 1,
    "E Sense Atte": 78,
-   "E Sense Medi": 77
+   "medi": 77
  },
  {
    "Fid": 71216,
@@ -6981,7 +6981,7 @@
    "Longitude": -74.006958,
    "Number of Records": 1,
    "E Sense Atte": 11,
-   "E Sense Medi": 78
+   "medi": 78
  },
  {
    "Fid": 5368,
@@ -6990,7 +6990,7 @@
    "Longitude": -74.001898,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 78
+   "medi": 78
  },
  {
    "Fid": 22425,
@@ -6999,7 +6999,7 @@
    "Longitude": -73.945355,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 78
+   "medi": 78
  },
  {
    "Fid": 813,
@@ -7008,7 +7008,7 @@
    "Longitude": -74.010238,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 78
+   "medi": 78
  },
  {
    "Fid": 70281,
@@ -7017,7 +7017,7 @@
    "Longitude": -74.00849,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 78
+   "medi": 78
  },
  {
    "Fid": 66097,
@@ -7026,7 +7026,7 @@
    "Longitude": -73.970239,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 78
+   "medi": 78
  },
  {
    "Fid": 2389,
@@ -7035,7 +7035,7 @@
    "Longitude": -74.014242,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 78
+   "medi": 78
  },
  {
    "Fid": 5305,
@@ -7044,7 +7044,7 @@
    "Longitude": -74.003881,
    "Number of Records": 1,
    "E Sense Atte": 81,
-   "E Sense Medi": 78
+   "medi": 78
  },
  {
    "Fid": 5395,
@@ -7053,7 +7053,7 @@
    "Longitude": -74.000887,
    "Number of Records": 1,
    "E Sense Atte": 38,
-   "E Sense Medi": 80
+   "medi": 80
  },
  {
    "Fid": 1024,
@@ -7062,7 +7062,7 @@
    "Longitude": -74.008924,
    "Number of Records": 1,
    "E Sense Atte": 41,
-   "E Sense Medi": 80
+   "medi": 80
  },
  {
    "Fid": 85655,
@@ -7071,7 +7071,7 @@
    "Longitude": -73.994795,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 80
+   "medi": 80
  },
  {
    "Fid": 34915,
@@ -7080,7 +7080,7 @@
    "Longitude": -73.932483,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 80
+   "medi": 80
  },
  {
    "Fid": 54668,
@@ -7089,7 +7089,7 @@
    "Longitude": -73.979855,
    "Number of Records": 1,
    "E Sense Atte": 54,
-   "E Sense Medi": 80
+   "medi": 80
  },
  {
    "Fid": 65994,
@@ -7098,7 +7098,7 @@
    "Longitude": -73.969444,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 80
+   "medi": 80
  },
  {
    "Fid": 58376,
@@ -7107,7 +7107,7 @@
    "Longitude": -73.942497,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 80
+   "medi": 80
  },
  {
    "Fid": 45128,
@@ -7116,7 +7116,7 @@
    "Longitude": -73.954328,
    "Number of Records": 1,
    "E Sense Atte": 38,
-   "E Sense Medi": 81
+   "medi": 81
  },
  {
    "Fid": 85630,
@@ -7125,7 +7125,7 @@
    "Longitude": -73.994482,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 81
+   "medi": 81
  },
  {
    "Fid": 54700,
@@ -7134,7 +7134,7 @@
    "Longitude": -73.980792,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 81
+   "medi": 81
  },
  {
    "Fid": 28413,
@@ -7143,7 +7143,7 @@
    "Longitude": -73.9423,
    "Number of Records": 1,
    "E Sense Atte": 40,
-   "E Sense Medi": 81
+   "medi": 81
  },
  {
    "Fid": 56472,
@@ -7152,7 +7152,7 @@
    "Longitude": -73.946932,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 81
+   "medi": 81
  },
  {
    "Fid": 36591,
@@ -7161,7 +7161,7 @@
    "Longitude": -73.934686,
    "Number of Records": 1,
    "E Sense Atte": 48,
-   "E Sense Medi": 81
+   "medi": 81
  },
  {
    "Fid": 56852,
@@ -7170,7 +7170,7 @@
    "Longitude": -73.95427,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 81
+   "medi": 81
  },
  {
    "Fid": 18264,
@@ -7179,7 +7179,7 @@
    "Longitude": -73.931266,
    "Number of Records": 1,
    "E Sense Atte": 53,
-   "E Sense Medi": 81
+   "medi": 81
  },
  {
    "Fid": 55296,
@@ -7188,7 +7188,7 @@
    "Longitude": -73.946497,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 81
+   "medi": 81
  },
  {
    "Fid": 86384,
@@ -7197,7 +7197,7 @@
    "Longitude": -73.992604,
    "Number of Records": 1,
    "E Sense Atte": 57,
-   "E Sense Medi": 81
+   "medi": 81
  },
  {
    "Fid": 41187,
@@ -7206,7 +7206,7 @@
    "Longitude": -73.983486,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 81
+   "medi": 81
  },
  {
    "Fid": 70474,
@@ -7215,7 +7215,7 @@
    "Longitude": -74.009569,
    "Number of Records": 1,
    "E Sense Atte": 64,
-   "E Sense Medi": 81
+   "medi": 81
  },
  {
    "Fid": 45390,
@@ -7224,7 +7224,7 @@
    "Longitude": -73.960695,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 81
+   "medi": 81
  },
  {
    "Fid": 31759,
@@ -7233,7 +7233,7 @@
    "Longitude": -73.984364,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 81
+   "medi": 81
  },
  {
    "Fid": 12944,
@@ -7242,7 +7242,7 @@
    "Longitude": -73.977491,
    "Number of Records": 1,
    "E Sense Atte": 74,
-   "E Sense Medi": 81
+   "medi": 81
  },
  {
    "Fid": 5023,
@@ -7251,7 +7251,7 @@
    "Longitude": -74.001029,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 83
+   "medi": 83
  },
  {
    "Fid": 73070,
@@ -7260,7 +7260,7 @@
    "Longitude": -74.01151,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 83
+   "medi": 83
  },
  {
    "Fid": 77036,
@@ -7269,7 +7269,7 @@
    "Longitude": -73.977249,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 83
+   "medi": 83
  },
  {
    "Fid": 13655,
@@ -7278,7 +7278,7 @@
    "Longitude": -73.982364,
    "Number of Records": 1,
    "E Sense Atte": 11,
-   "E Sense Medi": 84
+   "medi": 84
  },
  {
    "Fid": 20038,
@@ -7287,7 +7287,7 @@
    "Longitude": -73.939166,
    "Number of Records": 1,
    "E Sense Atte": 35,
-   "E Sense Medi": 84
+   "medi": 84
  },
  {
    "Fid": 52583,
@@ -7296,7 +7296,7 @@
    "Longitude": -73.956328,
    "Number of Records": 1,
    "E Sense Atte": 47,
-   "E Sense Medi": 84
+   "medi": 84
  },
  {
    "Fid": 12258,
@@ -7305,7 +7305,7 @@
    "Longitude": -73.958645,
    "Number of Records": 1,
    "E Sense Atte": 74,
-   "E Sense Medi": 84
+   "medi": 84
  },
  {
    "Fid": 53339,
@@ -7314,7 +7314,7 @@
    "Longitude": -73.94131,
    "Number of Records": 1,
    "E Sense Atte": 26,
-   "E Sense Medi": 87
+   "medi": 87
  },
  {
    "Fid": 27475,
@@ -7323,7 +7323,7 @@
    "Longitude": -73.965995,
    "Number of Records": 1,
    "E Sense Atte": 27,
-   "E Sense Medi": 87
+   "medi": 87
  },
  {
    "Fid": 66330,
@@ -7332,7 +7332,7 @@
    "Longitude": -73.972069,
    "Number of Records": 1,
    "E Sense Atte": 37,
-   "E Sense Medi": 87
+   "medi": 87
  },
  {
    "Fid": 11209,
@@ -7341,7 +7341,7 @@
    "Longitude": -73.97764,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 87
+   "medi": 87
  },
  {
    "Fid": 47852,
@@ -7350,7 +7350,7 @@
    "Longitude": -73.992831,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 87
+   "medi": 87
  },
  {
    "Fid": 66440,
@@ -7359,7 +7359,7 @@
    "Longitude": -73.973627,
    "Number of Records": 1,
    "E Sense Atte": 66,
-   "E Sense Medi": 87
+   "medi": 87
  },
  {
    "Fid": 30749,
@@ -7368,7 +7368,7 @@
    "Longitude": -73.997368,
    "Number of Records": 1,
    "E Sense Atte": 75,
-   "E Sense Medi": 87
+   "medi": 87
  },
  {
    "Fid": 39863,
@@ -7377,7 +7377,7 @@
    "Longitude": -74.007306,
    "Number of Records": 1,
    "E Sense Atte": 44,
-   "E Sense Medi": 88
+   "medi": 88
  },
  {
    "Fid": 24119,
@@ -7386,7 +7386,7 @@
    "Longitude": -73.985441,
    "Number of Records": 1,
    "E Sense Atte": 61,
-   "E Sense Medi": 88
+   "medi": 88
  },
  {
    "Fid": 25883,
@@ -7395,7 +7395,7 @@
    "Longitude": -73.976554,
    "Number of Records": 1,
    "E Sense Atte": 64,
-   "E Sense Medi": 88
+   "medi": 88
  },
  {
    "Fid": 67937,
@@ -7404,7 +7404,7 @@
    "Longitude": -74.008953,
    "Number of Records": 1,
    "E Sense Atte": 69,
-   "E Sense Medi": 88
+   "medi": 88
  },
  {
    "Fid": 55156,
@@ -7413,7 +7413,7 @@
    "Longitude": -73.949209,
    "Number of Records": 1,
    "E Sense Atte": 83,
-   "E Sense Medi": 88
+   "medi": 88
  },
  {
    "Fid": 70749,
@@ -7422,7 +7422,7 @@
    "Longitude": -74.010923,
    "Number of Records": 1,
    "E Sense Atte": 84,
-   "E Sense Medi": 88
+   "medi": 88
  },
  {
    "Fid": 70727,
@@ -7431,7 +7431,7 @@
    "Longitude": -74.010234,
    "Number of Records": 1,
    "E Sense Atte": 84,
-   "E Sense Medi": 88
+   "medi": 88
  },
  {
    "Fid": 70417,
@@ -7440,7 +7440,7 @@
    "Longitude": -74.009388,
    "Number of Records": 1,
    "E Sense Atte": 11,
-   "E Sense Medi": 90
+   "medi": 90
  },
  {
    "Fid": 44235,
@@ -7449,7 +7449,7 @@
    "Longitude": -73.935067,
    "Number of Records": 1,
    "E Sense Atte": 23,
-   "E Sense Medi": 90
+   "medi": 90
  },
  {
    "Fid": 22866,
@@ -7458,7 +7458,7 @@
    "Longitude": -73.960136,
    "Number of Records": 1,
    "E Sense Atte": 27,
-   "E Sense Medi": 90
+   "medi": 90
  },
  {
    "Fid": 14103,
@@ -7467,7 +7467,7 @@
    "Longitude": -73.986479,
    "Number of Records": 1,
    "E Sense Atte": 29,
-   "E Sense Medi": 90
+   "medi": 90
  },
  {
    "Fid": 17174,
@@ -7476,7 +7476,7 @@
    "Longitude": -73.918944,
    "Number of Records": 1,
    "E Sense Atte": 34,
-   "E Sense Medi": 90
+   "medi": 90
  },
  {
    "Fid": 13506,
@@ -7485,7 +7485,7 @@
    "Longitude": -73.982357,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 90
+   "medi": 90
  },
  {
    "Fid": 26842,
@@ -7494,7 +7494,7 @@
    "Longitude": -73.981856,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 90
+   "medi": 90
  },
  {
    "Fid": 53092,
@@ -7503,7 +7503,7 @@
    "Longitude": -73.936714,
    "Number of Records": 1,
    "E Sense Atte": 100,
-   "E Sense Medi": 90
+   "medi": 90
  },
  {
    "Fid": 17990,
@@ -7512,7 +7512,7 @@
    "Longitude": -73.930935,
    "Number of Records": 1,
    "E Sense Atte": 16,
-   "E Sense Medi": 91
+   "medi": 91
  },
  {
    "Fid": 10302,
@@ -7521,7 +7521,7 @@
    "Longitude": -73.985338,
    "Number of Records": 1,
    "E Sense Atte": 23,
-   "E Sense Medi": 91
+   "medi": 91
  },
  {
    "Fid": 20386,
@@ -7530,7 +7530,7 @@
    "Longitude": -73.939155,
    "Number of Records": 1,
    "E Sense Atte": 29,
-   "E Sense Medi": 91
+   "medi": 91
  },
  {
    "Fid": 34723,
@@ -7539,7 +7539,7 @@
    "Longitude": -73.929654,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 91
+   "medi": 91
  },
  {
    "Fid": 86161,
@@ -7548,7 +7548,7 @@
    "Longitude": -73.994753,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 91
+   "medi": 91
  },
  {
    "Fid": 48545,
@@ -7557,7 +7557,7 @@
    "Longitude": -73.977884,
    "Number of Records": 1,
    "E Sense Atte": 1,
-   "E Sense Medi": 93
+   "medi": 93
  },
  {
    "Fid": 54643,
@@ -7566,7 +7566,7 @@
    "Longitude": -73.979187,
    "Number of Records": 1,
    "E Sense Atte": 21,
-   "E Sense Medi": 93
+   "medi": 93
  },
  {
    "Fid": 18041,
@@ -7575,7 +7575,7 @@
    "Longitude": -73.931028,
    "Number of Records": 1,
    "E Sense Atte": 23,
-   "E Sense Medi": 93
+   "medi": 93
  },
  {
    "Fid": 7493,
@@ -7584,7 +7584,7 @@
    "Longitude": -74.005458,
    "Number of Records": 1,
    "E Sense Atte": 29,
-   "E Sense Medi": 93
+   "medi": 93
  },
  {
    "Fid": 25344,
@@ -7593,7 +7593,7 @@
    "Longitude": -73.988793,
    "Number of Records": 1,
    "E Sense Atte": 35,
-   "E Sense Medi": 93
+   "medi": 93
  },
  {
    "Fid": 68809,
@@ -7602,7 +7602,7 @@
    "Longitude": -74.008007,
    "Number of Records": 1,
    "E Sense Atte": 43,
-   "E Sense Medi": 93
+   "medi": 93
  },
  {
    "Fid": 30249,
@@ -7611,7 +7611,7 @@
    "Longitude": -73.980991,
    "Number of Records": 1,
    "E Sense Atte": 67,
-   "E Sense Medi": 93
+   "medi": 93
  },
  {
    "Fid": 48728,
@@ -7620,7 +7620,7 @@
    "Longitude": -73.976767,
    "Number of Records": 1,
    "E Sense Atte": 13,
-   "E Sense Medi": 94
+   "medi": 94
  },
  {
    "Fid": 66274,
@@ -7629,7 +7629,7 @@
    "Longitude": -73.971417,
    "Number of Records": 1,
    "E Sense Atte": 24,
-   "E Sense Medi": 94
+   "medi": 94
  },
  {
    "Fid": 76741,
@@ -7638,7 +7638,7 @@
    "Longitude": -73.976225,
    "Number of Records": 1,
    "E Sense Atte": 29,
-   "E Sense Medi": 94
+   "medi": 94
  },
  {
    "Fid": 67783,
@@ -7647,7 +7647,7 @@
    "Longitude": -74.005534,
    "Number of Records": 1,
    "E Sense Atte": 37,
-   "E Sense Medi": 94
+   "medi": 94
  },
  {
    "Fid": 18002,
@@ -7656,7 +7656,7 @@
    "Longitude": -73.931008,
    "Number of Records": 1,
    "E Sense Atte": 51,
-   "E Sense Medi": 94
+   "medi": 94
  },
  {
    "Fid": 30051,
@@ -7665,7 +7665,7 @@
    "Longitude": -73.975951,
    "Number of Records": 1,
    "E Sense Atte": 56,
-   "E Sense Medi": 94
+   "medi": 94
  },
  {
    "Fid": 20039,
@@ -7674,7 +7674,7 @@
    "Longitude": -73.939166,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 96
+   "medi": 96
  },
  {
    "Fid": 83399,
@@ -7683,7 +7683,7 @@
    "Longitude": -73.999792,
    "Number of Records": 1,
    "E Sense Atte": 83,
-   "E Sense Medi": 96
+   "medi": 96
  },
  {
    "Fid": 48614,
@@ -7692,7 +7692,7 @@
    "Longitude": -73.980252,
    "Number of Records": 1,
    "E Sense Atte": 17,
-   "E Sense Medi": 97
+   "medi": 97
  },
  {
    "Fid": 67792,
@@ -7701,7 +7701,7 @@
    "Longitude": -74.005358,
    "Number of Records": 1,
    "E Sense Atte": 27,
-   "E Sense Medi": 97
+   "medi": 97
  },
  {
    "Fid": 67794,
@@ -7710,7 +7710,7 @@
    "Longitude": -74.005239,
    "Number of Records": 1,
    "E Sense Atte": 27,
-   "E Sense Medi": 97
+   "medi": 97
  },
  {
    "Fid": 48560,
@@ -7719,7 +7719,7 @@
    "Longitude": -73.978815,
    "Number of Records": 1,
    "E Sense Atte": 1,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 48558,
@@ -7728,7 +7728,7 @@
    "Longitude": -73.978674,
    "Number of Records": 1,
    "E Sense Atte": 1,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 48550,
@@ -7737,7 +7737,7 @@
    "Longitude": -73.978029,
    "Number of Records": 1,
    "E Sense Atte": 1,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 29317,
@@ -7746,7 +7746,7 @@
    "Longitude": -73.961826,
    "Number of Records": 1,
    "E Sense Atte": 1,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 1240,
@@ -7755,7 +7755,7 @@
    "Longitude": -74.010617,
    "Number of Records": 1,
    "E Sense Atte": 11,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 1237,
@@ -7764,7 +7764,7 @@
    "Longitude": -74.010064,
    "Number of Records": 1,
    "E Sense Atte": 11,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 1233,
@@ -7773,7 +7773,7 @@
    "Longitude": -74.009176,
    "Number of Records": 1,
    "E Sense Atte": 11,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 1236,
@@ -7782,7 +7782,7 @@
    "Longitude": -74.009176,
    "Number of Records": 1,
    "E Sense Atte": 11,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 48751,
@@ -7791,7 +7791,7 @@
    "Longitude": -73.97822,
    "Number of Records": 1,
    "E Sense Atte": 14,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 28434,
@@ -7800,7 +7800,7 @@
    "Longitude": -73.942333,
    "Number of Records": 1,
    "E Sense Atte": 16,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 66273,
@@ -7809,7 +7809,7 @@
    "Longitude": -73.971388,
    "Number of Records": 1,
    "E Sense Atte": 17,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 39657,
@@ -7818,7 +7818,7 @@
    "Longitude": -73.969618,
    "Number of Records": 1,
    "E Sense Atte": 20,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 4967,
@@ -7827,7 +7827,7 @@
    "Longitude": -74.001001,
    "Number of Records": 1,
    "E Sense Atte": 21,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 43208,
@@ -7836,7 +7836,7 @@
    "Longitude": -73.986538,
    "Number of Records": 1,
    "E Sense Atte": 21,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 70692,
@@ -7845,7 +7845,7 @@
    "Longitude": -74.009772,
    "Number of Records": 1,
    "E Sense Atte": 23,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 4969,
@@ -7854,7 +7854,7 @@
    "Longitude": -74.001001,
    "Number of Records": 1,
    "E Sense Atte": 23,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 4970,
@@ -7863,7 +7863,7 @@
    "Longitude": -74.001001,
    "Number of Records": 1,
    "E Sense Atte": 23,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 4978,
@@ -7872,7 +7872,7 @@
    "Longitude": -74.001001,
    "Number of Records": 1,
    "E Sense Atte": 23,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 67751,
@@ -7881,7 +7881,7 @@
    "Longitude": -74.005469,
    "Number of Records": 1,
    "E Sense Atte": 26,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 70122,
@@ -7890,7 +7890,7 @@
    "Longitude": -74.007975,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 69841,
@@ -7899,7 +7899,7 @@
    "Longitude": -74.005626,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 69842,
@@ -7908,7 +7908,7 @@
    "Longitude": -74.005626,
    "Number of Records": 1,
    "E Sense Atte": 30,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 85877,
@@ -7917,7 +7917,7 @@
    "Longitude": -73.995935,
    "Number of Records": 1,
    "E Sense Atte": 50,
-   "E Sense Medi": 100
+   "medi": 100
  },
  {
    "Fid": 57413,
@@ -7926,6 +7926,6 @@
    "Longitude": -73.961953,
    "Number of Records": 1,
    "E Sense Atte": 63,
-   "E Sense Medi": 100
+   "medi": 100
  }
 ]
