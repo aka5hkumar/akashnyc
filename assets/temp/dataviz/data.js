@@ -664,8 +664,6 @@ var geojsonMarkerOptions = {
 
 L.geoJSON(minds, {
     pointToLayer: function (feature, latlng) {
-      return radius(feature.properties.medi)
-}
         return L.circleMarker(latlng, geojsonMarkerOptions);
     }
 }).addTo(mymap);
