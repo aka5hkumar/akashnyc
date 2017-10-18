@@ -99,6 +99,13 @@ footer {
   }
 }
 
+#name{
+  text-align: center;
+  padding-bottom: 1%;
+  border-radius: 10px;
+  color: #434343;
+}
+
 #hardware, #software, #design {
   text-align: center;
   padding: 15%;
