@@ -138,7 +138,7 @@ footer {
 }
 
 #footer {
-  background-color: #FFBF00;
+  background-color: #C7FF29;
   padding: 10px;
   font-weight: bold;
   font-size: 2vw;
@@ -149,7 +149,7 @@ footer {
 .btn {
   text-align: center;
   margin: 10px;
-  background-color: black;
+  background-color: #171717;
   padding-top: 1.75vh;
   padding-bottom: 1.75vh;
   font-weight: bold;
