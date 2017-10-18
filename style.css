@@ -120,7 +120,7 @@ footer {
   padding-top: 25px;
   margin-bottom: 1%;
   border-radius: 10px;
-  background-color: rgba(120, 120, 120, 0.5);
+  background-color: rgba(151, 252, 203, 0.7);
   transition: all ease 1.8s;
   background-image: url("data:image/svg+xml,%3Csvg width='40' height='1' viewBox='0 0 40 1' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0h20v1H0z' fill='%23000000' fill-opacity='0.1' fill-rule='evenodd'/%3E%3C/svg%3E");
 }
@@ -138,7 +138,7 @@ footer {
 }
 
 #footer {
-  background-color: #C7FF29;
+  background-color: rgba(200, 200, 200, 0.5);
   padding: 10px;
   font-weight: bold;
   font-size: 2vw;
