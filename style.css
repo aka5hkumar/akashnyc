@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: #171717;
   color: white;
   font-family: 'Raleway', sans-serif;
 }
@@ -160,6 +160,14 @@ footer {
   transition: all ease 0.8s;
   border: 25px;
   border-color: rgba(120, 120, 120, 0.5);
+}
+
+.modal-body, .modal-header, .modal-footer {
+   background-color: #E3E3E3;
+   border-color: grey;
+}
+.modal{
+     border-radius: 25px !important; 
 }
 
 @media screen and (orientation: landscape) {
