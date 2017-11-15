@@ -1,0 +1,49 @@
+body {
+  background-color: #F5F5F5;
+  color: black;
+  font-family: 'Raleway', sans-serif;
+}
+
+
+/* unvisited link */
+
+a:link {
+  color: white;
+}
+
+
+/* visited link */
+
+a:visited {
+  color: white;
+}
+
+
+#element {
+  background-color: #202020;
+  width: 100%;
+  height: 10%;
+  display: block;
+  overflow: hidden;
+  transform: translate3d(0, 0, 0);
+  text-align: center;
+  opacity: .8;
+  cursor: pointer;
+  -webkit-animation: seconds 1.0s forwards;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation-delay: 3s;
+  animation: seconds 1.0s forwards;
+  animation-iteration-count: 1;
+  animation-delay: 3s;
+}
+#center-image{
+    margin: auto;
+    text-align: center;
+}
+#map {
+  height:10%
+  width: 90vw;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
