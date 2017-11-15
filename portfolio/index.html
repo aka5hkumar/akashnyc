@@ -25,24 +25,25 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="" />
   <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin=""></script>
   <script src="https://rawgit.com/calvinmetcalf/leaflet-ajax/gh-pages/dist/leaflet.ajax.min.js"></script>
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
   <title>Portfolio</title>
 </head>
 
 <body>
-  <div id=element>
+  <nav id=element class="navbar sticky-top navbar-light bg-light">
     <script src="functions.js" type="text/javascript"></script>
-  </div>
+  </nav>
   <div id="content" class="container">
     <div id="main" class="row">
       <div class="row justify-content-md-center">
-        <h2><br>Welcome to my design portfolio. Below are a few of the best
+        <h3><br>Welcome to my design portfolio. Below are a few of the best
           examples of what I have created. I do more than design though.
           All of these projects have more to them than just the design.
           Whether it was creating the backend API to produce the data or
           animating the graphics or even laser cutting what I designed to
           fabracate something real, these projects started as designs
            but have all grown into much more.<br>
-         </h2>
+         </h3>
       </div>
       <div class="col-12">
         <h3> <br> </h3>
@@ -56,10 +57,9 @@
           end of a video or etched onto a circuit board, It needs to be truly iconic. In order to best achieve this I use simple lines. <br>
         </p>
         <p>
-          The first iteration (top left) was curvy. Thanks to certain TV shows I quickly grew tired of this logo.
-          I went back to the drawing board and decided to work from the tensegrity triangle, a shape I was familiar with from creating
-          them in my some DNA research I did years ago. This logo (top right) was what I wanted, but something about it was off. I used existing fonts to decide on the angles, and that just was not going to do. One last time I started from scratch, deciding
-          on angles and line weights intentionally, and that leads us to the logo I have now.
+          The first iteration (top left) was curvy. Thanks to certain TV shows I quickly grew tired of this logo. I went back to the drawing board and decided to work from the tensegrity triangle, a shape I was familiar with from creating them in my some DNA research
+          I did years ago. This logo (top right) was what I wanted, but something about it was off. I used existing fonts to decide on the angles, and that just was not going to do. One last time I started from scratch, deciding on angles and line weights
+          intentionally, and that leads us to the logo I have now.
         </p>
       </div>
       <div class="col-12 center-block">
@@ -109,22 +109,25 @@
       <div class="col">
         <h2>Videos</h2>
         <div class="center-block">
-          <h4>Lego People</h4>
+          <h4><center>Lego People</center></h4>
           <div class="embed-responsive embed-responsive-16by9">
             <iframe src="https://player.vimeo.com/video/215448607?wmode=transparent" type="text/html" width="400" height="302" frameborder="0" allowfullscreen></iframe>
           </div>
-            <p>A video about a little Lego person I made. The point is to convey emotion without text or narration. This is one of the first videos I ever made, and I am still proud of it.</p>
-            <h1><br></h1>
-          </div>
-          <h4>Camera Life</h4>
-          <div class="embed-responsive embed-responsive-16by9">
-            <iframe src="https://player.vimeo.com/video/215870809?wmode=transparent" type="text/html" width="400" height="302" frameborder="0" allowfullscreen></iframe>
-          </div>
-          <p>A video about a camera and how the world looks though its lens.</p>
+          <p>A video about a little Lego person I made. The point is to convey emotion without text or narration. This is one of the first videos I ever made, and I am still proud of it.</p>
           <h1><br></h1>
         </div>
+        <h4><center>Camera Life</center></h4>
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe src="https://player.vimeo.com/video/215870809?wmode=transparent" type="text/html" width="400" height="302" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <p>A video about a camera and how the world looks though its lens.</p>
+        <h1><br></h1>
       </div>
-      <h1><br></h1>
+    </div>
+    <h1><br></h1>
+    <div id="back-to-top" href="#" class="btn btn-danger btn-lg back-to-top" role="button">
+      <span class="fa fa-chevron-up" aria-hidden="true"></span>
+    </div>
 </body>
 
 </html>

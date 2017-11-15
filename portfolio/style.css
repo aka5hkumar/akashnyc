@@ -18,6 +18,25 @@ a:visited {
   color: white;
 }
 
+@media screen and (orientation: landscape) {
+  .back-to-top {
+    cursor: pointer;
+    position: fixed;
+    bottom: 2vh;
+    right: 2vw;
+    display: none;
+    height: 5vh;
+    width: 5vw;
+    text-align: center;
+  }
+}
+@media screen and (orientation: portrait) {
+  .back-to-top {
+    display: none;
+    margin-bottom: 5%;
+    font-size: 2%;
+  }
+}
 
 #element {
   background-color: #202020;
@@ -36,13 +55,14 @@ a:visited {
   animation-iteration-count: 1;
   animation-delay: 3s;
 }
-#center-image{
-    margin: auto;
-    text-align: center;
+
+#center-image {
+  margin: auto;
+  text-align: center;
 }
+
 #map {
-  height:10%
-  width: 90vw;
+  height: 10% width: 90vw;
   display: block;
   margin: auto;
   text-align: center;

@@ -134,15 +134,15 @@ footer {
 }
 
 #hardware {
-  background-color: cyan;
+  background-color: #2D6CCC;
 }
 
 #software {
-  background-color: magenta;
+  background-color: #FF6752;
 }
 
 #design {
-  background-color: yellow;
+  background-color: #D7FF59;
 }
 
 #footer {
@@ -175,19 +175,19 @@ footer {
    border-color: grey;
 }
 .modal{
-     border-radius: 25px !important; 
+     border-radius: 25px !important;
 }
 
 @media screen and (orientation: landscape) {
   .btn:hover {
-    box-shadow: inset 100px 0 0 0 #e0e0e0;
+    box-shadow: inset 300px 0 0 0 #e0e0e0;
     color: #000;
   }
 }
 
 @media screen and (orientation: portrait) {
   .btn:hover {
-    box-shadow: inset 450px 0 0 0 #e0e0e0;
+    box-shadow: inset 950px 0 0 0 #e0e0e0;
     color: #000;
   }
 }
