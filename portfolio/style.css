@@ -25,16 +25,16 @@ a:visited {
     bottom: 2vh;
     right: 2vw;
     display: none;
-    height: 5vh;
+    height: 3vw;
     width: 5vw;
     text-align: center;
+    font-size: 1.5vw;
   }
 }
 @media screen and (orientation: portrait) {
   .back-to-top {
     display: none;
-    margin-bottom: 5%;
-    font-size: 2%;
+
   }
 }
 
