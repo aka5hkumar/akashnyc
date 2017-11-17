@@ -7,7 +7,7 @@ bodymovin.loadAnimation({
 });
 
 $("#element").click(function() {
-  window.location = "http://akash.nyc/Resume.pdf";
+  window.location = "../Resume.pdf";
 });
 
 // $('.container').delay(3000).animate({
