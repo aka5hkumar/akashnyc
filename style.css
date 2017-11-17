@@ -116,6 +116,7 @@ footer {
   font-weight: bolder;
   transition: all ease 1.8s;
   cursor: pointer;
+  opacity: 1;
 }
 
 #hardware:hover, #software:hover, #design:hover {
@@ -128,21 +129,22 @@ footer {
   padding-bottom: 5px;
   margin-bottom: 1%;
   border-radius: 10px;
-  background-color: rgba(151, 252, 203, 0.7);
+  background-color: #FF6138;
   transition: all ease 1.8s;
   background-image: url("data:image/svg+xml,%3Csvg width='40' height='1' viewBox='0 0 40 1' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0h20v1H0z' fill='%23000000' fill-opacity='0.07' fill-rule='evenodd'/%3E%3C/svg%3E");
+  opacity: 1;
 }
 
 #hardware {
-  background-color: #2D6CCC;
+  background-color: #BEEB9F;
 }
 
 #software {
-  background-color: #FF6752;
+  background-color: #79BD8F;
 }
 
 #design {
-  background-color: #D7FF59;
+  background-color: #00A388;
 }
 
 #footer {
