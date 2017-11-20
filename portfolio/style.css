@@ -32,6 +32,9 @@ a:visited {
   }
 }
 @media screen and (orientation: portrait) {
+  .container{
+    font-size: 4vw;
+  }
   .back-to-top {
     display: none;
 
