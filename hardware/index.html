@@ -15,9 +15,9 @@
     gtag('config', 'UA-36912072-2');
   </script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="../innerstyle.css">
   <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-  <script src="bodymovin.js" type="text/javascript"></script>
+  <script src="../bodymovin.js" type="text/javascript"></script>
   <script src="https://npmcdn.com/tether@1.2.4/dist/js/tether.min.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
@@ -30,8 +30,17 @@
 </head>
 
 <body>
-  <nav id=element class="navbar sticky-top navbar-light bg-light">
-    <script src="functions.js" type="text/javascript"></script>
+  <nav id=element class="navbar navbar-light bg-light">
+    <script src="../innerfunctions.js" type="text/javascript"></script>
+  </nav>
+  <nav class="navbar sticky-top">
+    <div id="lowerNav" class="button-group">
+      <button id="Home_button" class="btn btn-lg btn-success" type="button" onclick="location.href='../#content';">Home</button>
+      <button id="Hardware_button" class="btn btn-lg align-middle btn-secondary" type="button" onclick="location.href='../hardware';">Hardware</button>
+      <button id="Software_button" class="btn btn-lg align-middle btn-secondary" type="button" onclick="location.href='../software';">Software</button>
+      <button id="Design_button" class="btn btn-lg align-middle btn-secondary active disabled" type="button" onclick="location.href='../portfolio';">Design</button>
+      <button id="Up_button" class="btn btn-lg btn-success" type="button" onclick="location.href='#element';">Top</button>
+      </form>
   </nav>
   <div id="content" class="container">
     <div id="main" class="row">

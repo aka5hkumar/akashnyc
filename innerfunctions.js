@@ -7,7 +7,5 @@ bodymovin.loadAnimation({
 });
 
 $("#element").click(function() {
-  $('body,html').animate({
-      scrollTop: 0
-  }, 800);
+  window.location = "../#content";
 });
