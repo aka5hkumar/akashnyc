@@ -16,7 +16,10 @@ h1 {
   padding-top: 0px;
   margin: 0px;
 }
-
+#FinalProject{
+  background-color: #FF8366;
+  border-radius: 25px;
+}
 #Home_button {
   background-color: #04A47A;
 }
@@ -51,11 +54,6 @@ a:visited {
   color: white;
 }
 
-@include media-breakpoint-between(xs, sm) {
-  .btn {
-    @include button-size($input-btn-padding-y-sm, $input-btn-padding-x-sm, $font-size-sm, $line-height-sm, $btn-border-radius-sm);
-  }
-}
 
 @media screen and (orientation: landscape) {
   h1 {
@@ -79,7 +77,7 @@ a:visited {
   p {
     font-size: 2.5vh;
   }
-  .btn {
+  #Home_button, #Hardware_button, #Software_button, #Design_button, #Up_button {
     height: 10%;
     width: 15%;
     text-align: center;
