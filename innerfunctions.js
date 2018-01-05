@@ -3,7 +3,7 @@ bodymovin.loadAnimation({
   renderer: 'svg',
   loop: 1,
   autoplay: true,
-  path: "logo.json", // the path to the animation json
+  path: "../logo.json", // the path to the animation json
 });
 
 $("#element").click(function() {
