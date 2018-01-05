@@ -17,16 +17,6 @@ h1 {
   margin: 0px;
 }
 
-#Design_button {
-  background-color: grey;
-  opacity: .7;
-  border: 0;
-}
-
-#Design_button:hover {
-  opacity: 1;
-}
-
 #Home_button {
   background-color: #04A47A;
 }
@@ -48,12 +38,13 @@ h1 {
 }
 
 #Home_button, #Hardware_button, #Software_button, #Design_button, #Up_button {
-  opacity: .8;
+  opacity: 1;
   border: 0;
 }
 
 #Home_button:hover, #Hardware_button:hover, #Software_button:hover, #Design_button:hover, #Up_button:hover {
-  opacity: 1;
+  background-color: rgba(100,100,100,.3);
+
 }
 
 a:visited {
