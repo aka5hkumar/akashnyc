@@ -2,6 +2,7 @@ body {
   background-color: #F5F5F5;
   color: black;
   font-family: 'Raleway', sans-serif;
+  padding-top: 0px;
 }
 
 
@@ -11,11 +12,58 @@ a:link {
   color: white;
 }
 
+h1 {
+  padding-top: 0px;
+  margin: 0px;
+}
 
-/* visited link */
+#Design_button {
+  background-color: grey;
+  opacity: .7;
+  border: 0;
+}
+
+#Design_button:hover {
+  opacity: 1;
+}
+
+#Home_button {
+  background-color: #04A47A;
+}
+
+#Hardware_button {
+  background-color: #1FAB9E;
+}
+
+#Software_button {
+  background-color: #FAD02F;
+}
+
+#Design_button {
+  background-color: #F16950;
+}
+
+#Up_button {
+  background-color: #04A47A;
+}
+
+#Home_button, #Hardware_button, #Software_button, #Design_button, #Up_button {
+  opacity: .8;
+  border: 0;
+}
+
+#Home_button:hover, #Hardware_button:hover, #Software_button:hover, #Design_button:hover, #Up_button:hover {
+  opacity: 1;
+}
 
 a:visited {
   color: white;
+}
+
+@include media-breakpoint-between(xs, sm) {
+  .btn {
+    @include button-size($input-btn-padding-y-sm, $input-btn-padding-x-sm, $font-size-sm, $line-height-sm, $btn-border-radius-sm);
+  }
 }
 
 @media screen and (orientation: landscape) {
@@ -27,17 +75,6 @@ a:visited {
   }
   p {
     font-size: 2.5vh;
-  }
-  .back-to-top {
-    cursor: pointer;
-    position: fixed;
-    bottom: 2vh;
-    right: 2vw;
-    display: none;
-    height: 3vw;
-    width: 5vw;
-    text-align: center;
-    font-size: 1.5vw;
   }
 }
 
@@ -51,9 +88,21 @@ a:visited {
   p {
     font-size: 2.5vh;
   }
-  .back-to-top {
-    display: none;
+  .btn {
+    height: 10%;
+    width: 15%;
+    text-align: center;
+    font-size: 2vw;
   }
+}
+
+.navbar {
+  padding-bottom: 0px;
+}
+
+#lowerNav {
+  padding-bottom: 0px;
+  text-align: center;
 }
 
 #element {

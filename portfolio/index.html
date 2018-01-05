@@ -30,13 +30,24 @@
 </head>
 
 <body>
-  <nav id=element class="navbar sticky-top navbar-light bg-light">
+
+  <nav id=element class="navbar navbar-light bg-light">
     <script src="functions.js" type="text/javascript"></script>
   </nav>
+  <nav class="navbar sticky-top">
+    <div id="lowerNav" class="button-group">
+<button id="Home_button" class="btn btn-lg btn-success" type="button" onclick="location.href='../#content';">Home</button>
+<button id="Hardware_button" class="btn btn-lg align-middle btn-secondary" type="button" onclick="location.href='../hardware';">Hardware</button>
+<button id="Software_button" class="btn btn-lg align-middle btn-secondary" type="button" onclick="location.href='../software';">Software</button>
+<button id="Design_button" class="btn btn-lg align-middle btn-secondary active disabled" type="button" onclick="location.href='../portfolio';">Design</button>
+<button id="Up_button" class="btn btn-lg btn-success" type="button" onclick="location.href='#element';">Top</button>
+</form>
+    </nav>
+
   <div id="content" class="container">
     <div id="main" class="row">
       <div class="row justify-content-md-center">
-        <h1><br><b>Welcome to my design portfolio.</b><br></h1>
+        <h1><b>Welcome to my design portfolio.</b></h1>
         <h3> Below are a few of the best
           examples of what I have created. I do more than design though.
           All of these projects have more to them than just the design.
@@ -124,10 +135,6 @@
         <p>A video about a camera and how the world looks though its lens.</p>
         <h1><br></h1>
       </div>
-    </div>
-    <h1><br></h1>
-    <div id="back-to-top" href="#" class="btn btn-danger btn-lg back-to-top" role="button">
-      <span class="fa fa-chevron-up" aria-hidden="true"></span>
     </div>
 </body>
 
