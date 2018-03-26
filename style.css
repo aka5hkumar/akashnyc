@@ -38,7 +38,7 @@ body {
   }
   .btn:hover {
     box-shadow: inset 950px 0 0 0 #e0e0e0;
-    color: grey;
+    color: #000;
   }
 }
 

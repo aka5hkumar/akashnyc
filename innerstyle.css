@@ -46,7 +46,7 @@ h1 {
 }
 
 #Home_button:hover, #Hardware_button:hover, #Software_button:hover, #Design_button:hover, #Up_button:hover {
-  background-color: rgba(100,100,100,.3);
+  background-color: rgba(15,15,15,.5);
 
 }
 
@@ -68,6 +68,9 @@ a:visited {
 }
 
 @media screen and (orientation: portrait) {
+  #buttonBar {
+    display: none;
+  }
   h1 {
     font-size: 5vh;
   }
