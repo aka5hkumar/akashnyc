@@ -4,7 +4,6 @@ body {
   font-family: 'Raleway', sans-serif;
 }
 
-
 /*#main {
     padding-top: 5%;
     border-radius: 25px;
@@ -17,6 +16,13 @@ body {
     font-size: .2vmin;
     font-size: 1.5vmax;
   }
+  h1 {
+    font-size: 3vw;
+  }
+  .btn:hover {
+    box-shadow: inset 300px 0 0 0 #e0e0e0;
+    color: #000;
+  }
 }
 
 @media screen and (orientation: portrait) {
@@ -24,27 +30,23 @@ body {
     font-size: .2vmin;
     font-size: 1.5vmax;
   }
-}
-
-@media screen and (orientation: landscape) {
-  h1 {
-    font-size: 3vw;
-  }
-}
-
-@media screen and (orientation: portrait) {
   h1 {
     font-size: 4vw;
   }
+  #buttonBar {
+    visibility: hidden;
+  }
+  .btn:hover {
+    box-shadow: inset 950px 0 0 0 #e0e0e0;
+    color: grey;
+  }
 }
-
 
 /* unvisited link */
 
 a:link {
   color: white;
 }
-
 
 /* visited link */
 
@@ -99,7 +101,7 @@ footer {
   }
 }
 
-#name{
+#name {
   text-align: center;
   padding-bottom: 1%;
   border-radius: 10px;
@@ -173,23 +175,10 @@ footer {
 }
 
 .modal-body, .modal-header, .modal-footer {
-   background-color: #E3E3E3;
-   border-color: grey;
-}
-.modal{
-     border-radius: 25px !important;
+  background-color: #E3E3E3;
+  border-color: grey;
 }
 
-@media screen and (orientation: landscape) {
-  .btn:hover {
-    box-shadow: inset 300px 0 0 0 #e0e0e0;
-    color: #000;
-  }
-}
-
-@media screen and (orientation: portrait) {
-  .btn:hover {
-    box-shadow: inset 950px 0 0 0 #e0e0e0;
-    color: #000;
-  }
+.modal {
+  border-radius: 25px !important;
 }
