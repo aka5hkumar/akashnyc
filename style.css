@@ -33,9 +33,6 @@ body {
   h1 {
     font-size: 4vw;
   }
-  #buttonBar {
-    visibility: hidden;
-  }
   .btn:hover {
     box-shadow: inset 950px 0 0 0 #e0e0e0;
     color: #000;
