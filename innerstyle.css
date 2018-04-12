@@ -45,8 +45,12 @@ h1 {
   border: 0;
 }
 
-#Home_button:hover, #Hardware_button:hover, #Software_button:hover, #Design_button:hover, #Up_button:hover {
-  background-color: rgba(15,15,15,.5);
+#Hardware_button:hover, #Software_button:hover, #Design_button:hover {
+  background-color: white;
+
+}
+#Home_button:hover, #Up_button:hover {
+  background-color: black;
 
 }
 
