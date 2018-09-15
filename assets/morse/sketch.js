@@ -18,15 +18,21 @@
 //     keyList = [A, B, C, D, E, F, G];
 // }
 function preload(){
-    A=loadImage("https://akash.nyc/assets/CORS/a.png")
-    B=loadImage("https://akash.nyc/assets/CORS/b.png")
-    C=loadImage("https://akash.nyc/assets/CORS/c.png")
-    D=loadImage("https://akash.nyc/assets/CORS/d.png")
-    E=loadImage("https://akash.nyc/assets/CORS/e.png")
-    F=loadImage("https://akash.nyc/assets/CORS/f.png")
-    G=loadImage("https://akash.nyc/assets/CORS/g.png")
+    A=loadImage("assets/a.png")
+    B=loadImage("assets/b.png")
+    C=loadImage("assets/c.png")
+    D=loadImage("assets/d.png")
+    E=loadImage("assets/e.png")
+    F=loadImage("assets/f.png")
+    G=loadImage("assets/g.png")
+    Asound = loadSound("assets/A.mp3");
+    Bsound = loadSound("assets/B.mp3");
+    Csound = loadSound("assets/C.mp3");
+    Dsound = loadSound("assets/D.mp3");
+    Esound = loadSound("assets/E.mp3");
+    Fsound = loadSound("assets/F.mp3");
+    Gsound = loadSound("assets/G.mp3");
 }
-
 function setup() {
     createCanvas(window.innerWidth, window.innerHeight);
     textSize(100);
@@ -40,6 +46,8 @@ function draw() {
   noStroke()
   console.log(key)
   image(key, window.innerWidth/2,window.innerHeight/2)
+  var sound=key+'sound'
+  sound.play()
 }
 function keyPressed(){
     clear()
