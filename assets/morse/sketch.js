@@ -18,13 +18,13 @@
 //     keyList = [A, B, C, D, E, F, G];
 // }
 function preload(){
-    a=loadImage("https://akash.nyc/assets/CORS/a.png")
-    b=loadImage("https://akash.nyc/assets/CORS/b.png")
-    c=loadImage("https://akash.nyc/assets/CORS/c.png")
-    d=loadImage("https://akash.nyc/assets/CORS/d.png")
-    e=loadImage("https://akash.nyc/assets/CORS/e.png")
-    f=loadImage("https://akash.nyc/assets/CORS/f.png")
-    g=loadImage("https://akash.nyc/assets/CORS/g.png")
+    A=loadImage("https://akash.nyc/assets/CORS/a.png")
+    B=loadImage("https://akash.nyc/assets/CORS/b.png")
+    C=loadImage("https://akash.nyc/assets/CORS/c.png")
+    D=loadImage("https://akash.nyc/assets/CORS/d.png")
+    E=loadImage("https://akash.nyc/assets/CORS/e.png")
+    F=loadImage("https://akash.nyc/assets/CORS/f.png")
+    G=loadImage("https://akash.nyc/assets/CORS/g.png")
 }
 
 function setup() {
@@ -38,9 +38,8 @@ function setup() {
 function draw() {
   fill(0,0,255)
   noStroke()
-  var assetname = (str.lower(key))
-  console.log(assetname)
-  image(assetname, window.innerWidth/2,window.innerHeight/2)
+  console.log(key)
+  image(key, window.innerWidth/2,window.innerHeight/2)
 }
 function keyPressed(){
     clear()
