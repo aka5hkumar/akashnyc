@@ -17,7 +17,7 @@
 //     G = loadSound("assets/G.mp3");
 //     keyList = [A, B, C, D, E, F, G];
 // }
-function preload(){
+function preload() {
     A=loadImage("assets/a.png")
     B=loadImage("assets/b.png")
     C=loadImage("assets/c.png")
@@ -33,12 +33,11 @@ function preload(){
     Fsound = loadSound("assets/F.mp3");
     Gsound = loadSound("assets/G.mp3");
 }
+
 function setup() {
     createCanvas(window.innerWidth, window.innerHeight);
     textSize(100);
     textAlign(CENTER);
-    
-    
 }
 
 function draw() {
@@ -46,7 +45,7 @@ function draw() {
   noStroke()
   console.log(key)
   image(key, window.innerWidth/2,window.innerHeight/2)
-  var sound=key+'sound'
+  var sound=(key+'sound')
   sound.play()
 }
 function keyPressed(){
