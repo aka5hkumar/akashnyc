@@ -1,3 +1,4 @@
+import { rejects } from "assert";
 
 // var A;
 // var B;
@@ -18,20 +19,20 @@
 //     keyList = [A, B, C, D, E, F, G];
 // }
 function preload() {
-    A=loadImage("assets/a.png")
-    B=loadImage("assets/b.png")
-    C=loadImage("assets/c.png")
-    D=loadImage("assets/d.png")
-    E=loadImage("assets/e.png")
-    F=loadImage("assets/f.png")
-    G=loadImage("assets/g.png")
-    Asound = loadSound("assets/A.mp3");
-    Bsound = loadSound("assets/B.mp3");
-    Csound = loadSound("assets/C.mp3");
-    Dsound = loadSound("assets/D.mp3");
-    Esound = loadSound("assets/E.mp3");
-    Fsound = loadSound("assets/F.mp3");
-    Gsound = loadSound("assets/G.mp3");
+    // A=loadImage("assets/a.png")
+    // B=loadImage("assets/b.png")
+    // C=loadImage("assets/c.png")
+    // D=loadImage("assets/d.png")
+    // E=loadImage("assets/e.png")
+    // F=loadImage("assets/f.png")
+    // G=loadImage("assets/g.png")
+    // Asound = loadSound("assets/A.mp3");
+    // Bsound = loadSound("assets/B.mp3");
+    // Csound = loadSound("assets/C.mp3");
+    // Dsound = loadSound("assets/D.mp3");
+    // Esound = loadSound("assets/E.mp3");
+    // Fsound = loadSound("assets/F.mp3");
+    // Gsound = loadSound("assets/G.mp3");
 }
 
 function setup() {
@@ -44,6 +45,7 @@ function draw() {
   fill(0,0,255)
   noStroke()
   console.log(key)
+  rect(50,50,50,50)
   image(key, window.innerWidth/2,window.innerHeight/2)
   var sound=(key+'sound')
   sound.play()
